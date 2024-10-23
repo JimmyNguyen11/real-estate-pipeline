@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hdfs-service
+spec:
+  type: ClusterIP
+  selector:
+    app: hdfs
+  ports:
+    - protocol: TCP
+      port: 8020
+      targetPort: 8020  # Dùng để kết nối từ Spark hoặc Airflow tới HDFS
+    - protocol: TCP
+      port: 50070
+      targetPort: 50070  # Giao diện web của HDFS

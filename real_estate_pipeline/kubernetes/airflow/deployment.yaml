@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: airflow
+  labels:
+    app: airflow
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: airflow
+  template:
+    metadata:
+      labels:
+        app: airflow
+    spec:
+      containers:
+      - name: airflow-webserver
+        image: apache/airflow:2.5.0
+        ports:
+        - containerPort: 8080
+        volumeMounts:
+        - name: airflow-logs
+          mountPath: /usr/local/airflow/logs
+      - name: airflow-scheduler
+        image: apache/airflow:2.5.0
+        ports:
+        - containerPort: 8793
+        volumeMounts:
+        - name: airflow-logs
+          mountPath: /usr/local/airflow/logs
+      volumes:
+      - name: airflow-logs
+        emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: airflow-service
+spec:
+  type: NodePort
+  ports:
+    - port: 8080
+      targetPort: 8080
+      nodePort: 30001
+  selector:
+    app: airflow

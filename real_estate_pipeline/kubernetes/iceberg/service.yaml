@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: iceberg-service
+spec:
+  type: ClusterIP
+  selector:
+    app: iceberg
+  ports:
+    - protocol: TCP
+      port: 9090
+      targetPort: 9090
