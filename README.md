@@ -11,7 +11,7 @@ Trước khi chạy lưu ý:
    - host='localhost',
    - user='root',
    - password='123456',
-   - database='demo'  -  Đây là mẫu t dùng, bro cần sửa như máy bro đã cấu hình
+   - database='demo'  -  Đây là mẫu t dùng, bro cần sửa như máy bro đã cấu hình (nếu sửa thì phải sửa cả trong code, search '123456' trong code là tìm được chỗ để sửa)
 4. Trong airflow, vào mục Admin -> Connections, tạo 2 connection như ảnh sau (có thể sẽ phải điều chỉnh cho giống với cấu hình của hệ thống, tuy nhiên bắt buộc phải giữ nguyên tên connection)
    ![image](https://github.com/user-attachments/assets/a4b37ba4-9fcc-43f7-8bf0-11e34d9c2ab8)
    password: '123456'(đây là vs máy t, bro chỉnh pass ở mục 2 như nào thì paste lại vào là ok, trong ảnh không hiện vì airflow nó không hiển thị pass)
