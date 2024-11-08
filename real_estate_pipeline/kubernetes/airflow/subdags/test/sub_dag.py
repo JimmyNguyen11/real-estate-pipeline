@@ -72,6 +72,7 @@ def task_load_to_hdfs(args, **kwargs):
                     "from_date": from_date,
                     "to_date": to_date,
                 },
+                table_name=table_name,
                 output_path=hdfs_path,
                 raw_pyarrow_schema=raw_pyarrow_schema,
                 raw_pandas_schema=raw_pandas_schema,
