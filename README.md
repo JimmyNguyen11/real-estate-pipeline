@@ -1,10 +1,10 @@
 # real-estate-pipeline
 
 Phiên bản sử dụng: (Đây là của máy t, còn hệ thống bro build như nào thì cứ tạm giữ nguyên như vậy trước đã)
- Airflow: 2.6.1
- HDFS: 3.3.6
- MySQL: 8.0.39
- Python: 3.10
+ - Airflow: 2.6.1
+ - HDFS: 3.3.6
+ - MySQL: 8.0.39
+ - Python: 3.10
 Trước khi chạy lưu ý:
 1. Cài Chrome để crawl
 2. Tạo 1 kết nối như sau trong MySQL: 
@@ -25,9 +25,9 @@ Trước khi chạy lưu ý:
     ```
    file_path = 'home/hoang/crawled_data.csv'
    ```
-Tức là dùng dir của máy t để làm, bro cần chỉnh lại như máy bro. (Cứ search 'hoang' rồi sửa)
-Tương tự 1 số phần dùng câu lệnh hdfs, cũng cần chỉnh như mày bro (Cứ search 'hdfs' rồi sửa)
-Có 1 phần bro cũng phải chỉnh lại phiên bản java mà hệ thống dùng như này (trong plugins/hooks)
+- Tức là dùng dir của máy t để làm, bro cần chỉnh lại như máy bro. (Cứ search 'hoang' rồi sửa)
+- Tương tự 1 số phần dùng câu lệnh hdfs, cũng cần chỉnh như mày bro (Cứ search 'hdfs' rồi sửa)
+- Có 1 phần bro cũng phải chỉnh lại phiên bản java mà hệ thống dùng như này (trong plugins/hooks)
    ```
    os.environ['JAVA_HOME'] = '/usr/lib/jvm/java-8-openjdk-amd64'
    ```
