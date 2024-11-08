@@ -1,9 +1,14 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: etl-config
+  name: real-estate-config
+  namespace: real-estate
 data:
-  AIRFLOW__CORE__EXECUTOR: "LocalExecutor"
-  SPARK_MASTER_URL: "spark://spark-service:7077"
-  HDFS_NAMENODE: "hdfs://hdfs-service:8020"
-  ICEBERG_WAREHOUSE: "/data/warehouse"
+  config.yml: |
+    hdfs_path: "/data/hdfs"
+    iceberg_path: "/data/iceberg"
+    database:
+      host: "postgresql"
+      port: 5432
+      user: "username"
+      password: "password"

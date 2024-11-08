@@ -1,9 +1,8 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: hdfs-namenode
-  labels:
-    app: hdfs
+  name: hdfs
+  namespace: real-estate
 spec:
   replicas: 1
   selector:
@@ -15,26 +14,14 @@ spec:
         app: hdfs
     spec:
       containers:
-      - name: namenode
+      - name: hdfs
         image: bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
         ports:
-        - containerPort: 8020
-        - containerPort: 50070
+        - containerPort: 9000
         volumeMounts:
         - name: hdfs-data
-          mountPath: /hadoop/dfs/name
+          mountPath: /data/hdfs
       volumes:
       - name: hdfs-data
         persistentVolumeClaim:
-          claimName: hdfs-pv-claim
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: hdfs-service
-spec:
-  ports:
-  - port: 8020
-    targetPort: 8020
-  selector:
-    app: hdfs
+          claimName: hdfs-pvc
