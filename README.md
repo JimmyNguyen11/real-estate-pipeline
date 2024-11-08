@@ -7,12 +7,12 @@ Phiên bản sử dụng: (Đây là của máy t, còn hệ thống bro build n
  - Python: 3.10
 Trước khi chạy lưu ý:
 1. Cài Chrome để crawl
-2. Tạo 1 kết nối như sau trong MySQL: 
-       - host='localhost',
-       - user='root',
-       - password='123456',
-       - database='demo'  -  Đây là mẫu t dùng, bro cần sửa như máy bro đã cấu hình
-3. Trong airflow, vào mục Admin -> Connections, tạo 2 connection như ảnh sau (có thể sẽ phải điều chỉnh cho giống với cấu hình của hệ thống, tuy nhiên bắt buộc phải giữ nguyên tên connection)
+2. Tạo 1 kết nối như sau trong MySQL:
+   - host='localhost',
+   - user='root',
+   - password='123456',
+   - database='demo'  -  Đây là mẫu t dùng, bro cần sửa như máy bro đã cấu hình
+4. Trong airflow, vào mục Admin -> Connections, tạo 2 connection như ảnh sau (có thể sẽ phải điều chỉnh cho giống với cấu hình của hệ thống, tuy nhiên bắt buộc phải giữ nguyên tên connection)
    ![image](https://github.com/user-attachments/assets/a4b37ba4-9fcc-43f7-8bf0-11e34d9c2ab8)
    password: '123456'(đây là vs máy t, bro chỉnh pass ở mục 2 như nào thì paste lại vào là ok, trong ảnh không hiện vì airflow nó không hiển thị pass)
    ![image](https://github.com/user-attachments/assets/20ea01fe-6e0d-42c1-968b-07f9a98f02b3) (không cần nhập password vì HDFS không yêu cầu, trong ảnh là t nhập bừa thôi)
