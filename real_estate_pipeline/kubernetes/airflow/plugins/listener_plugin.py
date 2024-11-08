@@ -14,3 +14,13 @@
 # KIND, either express or implied.  See the License for the
 # specific language governing permissions and limitations
 # under the License.
+
+from __future__ import annotations
+
+from airflow.example_dags.plugins import event_listener
+from airflow.plugins_manager import AirflowPlugin
+
+
+class MetadataCollectionPlugin(AirflowPlugin):
+    name = "MetadataCollectionPlugin"
+    listeners = [event_listener]

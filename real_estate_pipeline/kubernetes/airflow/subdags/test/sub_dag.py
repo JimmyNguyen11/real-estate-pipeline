@@ -1,3 +1,28 @@
+from tokenize import endpats
+
+from airflow import DAG
+from airflow.operators.python import PythonOperator
+from airflow.hooks.base import BaseHook
+from datetime import datetime
+from airflow.example_dags.utils.hdfs.hdfs_utils import run_bash_cmd
+from datetime import timedelta
+from airflow.example_dags.utils.variables.variables_utils import get_variables
+from airflow.example_dags.utils.common.common_function import get_param
+
+from datetime import datetime
+from airflow.operators.empty import EmptyOperator
+#from plugins.iceberg_operator import IcebergOperator
+#from plugins.source_file_to_iceberg_operator import SourceFileToIcebergOperator
+from airflow.example_dags.plugins.mysql_to_hdfs import MysqlToHdfsOperator
+#from schema.lakehouse.kms.schema_dlk import TableKmsDLK
+#from schema.lakehouse.kms.schema_dwh import TableKmsDWH
+from airflow.utils.task_group import TaskGroup
+from airflow.example_dags.schema.test.schema_dlk import TableTestDLK
+from airflow.example_dags.schema.demo.schema_dlk import TableDemoDLK
+
+from airflow.example_dags.utils.database.lakehouse_mapping_dtypes import get_raw_columns, get_type_pyarrow_from_pandas
+from airflow.example_dags.utils.lakehouse.lakehouse_layer_utils import RAW, STAGING, WAREHOUSE
+from airflow.example_dags.utils.lakehouse.lakehouse_uri_utils import get_source_uri_lakehouse
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -12,9 +37,53 @@ import re
 
 url = 'https://www.nhatot.com/mua-ban-bat-dong-san-ha-noi?page=1'
 
+def task_load_to_hdfs(args, **kwargs):
+    with TaskGroup(group_id="task_load_to_hdfs", default_args=args) as load_to_hdfs:
+        hdfs_bucket = kwargs.get('hdfs_bucket')
+        mysql_conn_id = kwargs.get('mysql_conn_id')
+        hdfs_conn_id = kwargs.get('hdfs_conn_id')
+        date_partition = kwargs.get('date_partition')
+        from_date = kwargs.get("from_date")
+        to_date = kwargs.get("to_date")
+
+        is_migrate = kwargs.get('is_migrate', 0)
+
+        table_dlk = TableDemoDLK()
+        for table in table_dlk.ALL_TABLES:
+            table_name = table.TABLE_NAME
+            schema = table.COLUMNS_SCHEMA
+            raw_pandas_schema = get_raw_columns(schema)
+            raw_pyarrow_schema = get_type_pyarrow_from_pandas(raw_pandas_schema)
+            hdfs_path = get_source_uri_lakehouse(
+                layer=RAW,
+                table_folder=table_name,
+                gc_bucket=hdfs_bucket,
+                partition=date_partition,
+            )
+
+            query = "sql/demo/ext_source_{}.sql".format(table_name)
+
+            MysqlToHdfsOperator(
+                task_id="load_{}_to_hdfs".format(table_name),
+                mysql_conn_id=mysql_conn_id,
+                hdfs_conn_id=hdfs_conn_id,
+                query=query,
+                params={
+                    "from_date": from_date,
+                    "to_date": to_date,
+                },
+                output_path=hdfs_path,
+                raw_pyarrow_schema=raw_pyarrow_schema,
+                raw_pandas_schema=raw_pandas_schema,
+                is_truncate=True
+            )
+
+    return load_to_hdfs
+
+
 def get_product_status(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    status = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'property_status'})
+    status = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'property_status'})
 
     status_result = status.text if status else None
     return status_result
@@ -25,7 +94,7 @@ def get_product_price_m2(page_source):
     move = 'triệu/m²'
     move2 = 'tỷ/m²'
     move3 = 'đ/m²'
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'price_m2'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'price_m2'})
 
     m2_result = m2.text if m2 else None
 
@@ -51,7 +120,7 @@ def get_product_price_m2(page_source):
 
 def get_product_toilet(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'toilets'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'toilets'})
 
     if not m2:
         return None
@@ -66,7 +135,7 @@ def get_product_toilet(page_source):
 
 def get_product_room(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'rooms'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'rooms'})
     if not m2:
         return None
 
@@ -80,7 +149,7 @@ def get_product_room(page_source):
 
 def get_product_legal_doc(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'property_legal_document'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'property_legal_document'})
 
     m2_result = m2.text if m2 else None
     return m2_result
@@ -88,7 +157,7 @@ def get_product_legal_doc(page_source):
 
 def get_product_floor(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'floors'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'floors'})
     if not m2:
         return None
 
@@ -99,7 +168,7 @@ def get_product_floor(page_source):
 
 def get_product_type(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'house_type'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'house_type'})
 
     m2_result = m2.text if m2 else None
     return m2_result
@@ -107,7 +176,7 @@ def get_product_type(page_source):
 
 def get_product_furnishing(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
-    m2 = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'furnishing_sell'})
+    m2 = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'furnishing_sell'})
 
     m2_result = m2.text if m2 else None
     return m2_result
@@ -116,7 +185,7 @@ def get_product_furnishing(page_source):
 def get_product_area(page_source):
     # Tìm thẻ <span> với class và itemprop cụ thể
     move = 'm²'
-    area = page_source.find('span', {'class': 'AdParam_adParamValue__IfaYa', 'itemprop': 'size'})
+    area = page_source.find('strong', {'class': 'AdParam_adParamValuePty__3uTmt', 'itemprop': 'size'})
 
     area_result = area.text if area else None
 
@@ -240,7 +309,7 @@ def get_product_one_page(url):
     list_furnishing = []
     # for item in range(len(links)):
 
-    for item in range(3):
+    for item in range(len(links)):
         href = links[item].get('href')
         if href and not href.startswith('https'):
             link = href
@@ -293,10 +362,11 @@ def get_product_one_page(url):
     return df
 
 
+# get product information on all pages
 def get_product_all_pages(**kwargs):
     all_page = pd.DataFrame()
 
-    for page in range(1):  # Điều chỉnh số lượng trang theo nhu cầu
+    for page in range(1):  # CHU Y: Điều chỉnh số lượng trang theo nhu cầu (hien tai la 1)
         print(f'Trang số: {page + 1}')
         url_s = 'https://www.nhatot.com/mua-ban-bat-dong-san-ha-noi' + '?page=' + f'{page + 1}'
         one_page = get_product_one_page(url_s)
@@ -306,7 +376,7 @@ def get_product_all_pages(**kwargs):
     kwargs['ti'].xcom_push(key='crawled_data', value=all_page.to_dict())
 
     # Lưu DataFrame all_page vào file CSV
-    all_page.to_csv('/home/hoang/crawled_data.csv', index=False, encoding='utf-8')
+    #all_page.to_csv('/home/hoang/crawl_data.csv', index=False, encoding='utf-8')
 
     return all_page
 
@@ -321,7 +391,7 @@ def save_crawled_data_to_csv(**kwargs):
 
         # Lưu DataFrame vào file CSV
         try:
-            all_data.to_csv('/home/hoang/products.csv', index=False)
+            all_data.to_csv('/home/hoang/crawled_data.csv', index=False)
             print("Dữ liệu đã được lưu vào file crawled_data.csv thành công.")
         except Exception as e:
             print(f"Đã xảy ra lỗi khi lưu dữ liệu: {e}")
@@ -329,15 +399,16 @@ def save_crawled_data_to_csv(**kwargs):
         print("Dữ liệu đã được lưu vào file crawled_data.csv thành công")
 
 def load_csv_to_mysql(**kwargs):
-    # Đọc file CSV
     file_path = '/home/hoang/crawled_data.csv'
     df = pd.read_csv(file_path)
+
+    df = df.fillna(-1)
 
     # Kết nối tới MySQL
     conn = mysql.connector.connect(
         host='localhost',
         user='root',
-        password='datamaking',
+        password='123456',
         database='demo'
     )
     cursor = conn.cursor()
@@ -346,11 +417,11 @@ def load_csv_to_mysql(**kwargs):
     create_table_query = """
     CREATE TABLE IF NOT EXISTS demo (
         du_an VARCHAR(255),
-        price_VND FLOAT,
+        price_VND DOUBLE,
         location VARCHAR(255),
         status VARCHAR(100),
-        area FLOAT,
-        price_m2 FLOAT,
+        area DOUBLE,
+        price_m2 DOUBLE,
         toilet INT,          
         room INT,            
         doc VARCHAR(100),
@@ -388,6 +459,36 @@ def load_csv_to_mysql(**kwargs):
             row['furnishing']
         )
         cursor.execute(sql, val)
+
+    cursor.execute("""
+        UPDATE demo.demo
+        SET 
+            du_an = CASE WHEN du_an = '-1' THEN NULL ELSE du_an END,
+            price_VND = CASE WHEN price_VND = -1 THEN NULL ELSE price_VND END,
+            location = CASE WHEN location = '-1' THEN NULL ELSE location END,
+            status = CASE WHEN status = '-1' THEN NULL ELSE status END,
+            area = CASE WHEN area = -1 THEN NULL ELSE area END,
+            price_m2 = CASE WHEN price_m2 = -1 THEN NULL ELSE price_m2 END,
+            toilet = CASE WHEN toilet = -1 THEN NULL ELSE toilet END,
+            room = CASE WHEN room = -1 THEN NULL ELSE room END,
+            doc = CASE WHEN doc = '-1' THEN NULL ELSE doc END,
+            type = CASE WHEN type = '-1' THEN NULL ELSE type END,
+            So_tang = CASE WHEN So_tang = -1 THEN NULL ELSE So_tang END,
+            furnishing = CASE WHEN furnishing = '-1' THEN NULL ELSE furnishing END
+        WHERE 
+            du_an = '-1' OR
+            price_VND = -1 OR 
+            location = '-1' OR 
+            status = '-1' OR 
+            area = -1 OR 
+            price_m2 = -1 OR 
+            toilet = -1 OR 
+            room = -1 OR 
+            doc = '-1' OR 
+            type = '-1' OR 
+            So_tang = -1 OR 
+            furnishing = '-1';
+    """)
 
     # Lưu thay đổi
     conn.commit()
