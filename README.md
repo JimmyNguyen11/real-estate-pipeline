@@ -12,9 +12,10 @@ Trước khi chạy lưu ý:
         user='root',
         password='123456',
         database='demo'  -  Đây là mẫu t dùng, bro cần sửa như máy bro đã cấu hình
-3. Trong airflow, vào mục Admin -> Connections, tạo 2 connection như ảnh sau:
+3. Trong airflow, vào mục Admin -> Connections, tạo 2 connection như ảnh sau (có thể sẽ phải điều chỉnh cho giống với cấu hình của hệ thống, tuy nhiên bắt buộc phải giữ nguyên tên connection)
    ![image](https://github.com/user-attachments/assets/a4b37ba4-9fcc-43f7-8bf0-11e34d9c2ab8)
-   ![image](https://github.com/user-attachments/assets/20ea01fe-6e0d-42c1-968b-07f9a98f02b3)
+   password: '123456'(đây là vs máy t, bro chỉnh pass ở mục 2 như nào thì paste lại vào là ok, trong ảnh không hiện vì airflow nó không hiển thị pass)
+   ![image](https://github.com/user-attachments/assets/20ea01fe-6e0d-42c1-968b-07f9a98f02b3) (không cần nhập password vì HDFS không yêu cầu)
 
 5. Import thư viện: các thư viện được import trong code có kiểu
    ```
