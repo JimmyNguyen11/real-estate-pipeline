@@ -31,6 +31,7 @@ class MysqlToHdfsOperator(BaseOperator):
                  raw_pandas_schema,
                  raw_pyarrow_schema,
                  output_path,
+                 table_name,
                  is_log_schema=False,
                  is_truncate=False,
                  *args, **kwargs):
@@ -39,6 +40,7 @@ class MysqlToHdfsOperator(BaseOperator):
         self.hdfs_conn_id = hdfs_conn_id
         self.query = query
         self.output_path = output_path
+        self.table_name = table_name
         self.raw_pandas_schema = raw_pandas_schema
         self.raw_pyarrow_schema = raw_pyarrow_schema
         self.chunk_size = DEFAULT_CHUNK_SIZE
@@ -109,9 +111,9 @@ class MysqlToHdfsOperator(BaseOperator):
         filename = subprocess.check_output(list_files_command, shell=True, text=True).strip()
         if filename:
             # Đổi tên file
-            rename_command = f"hdfs dfs -mv {filename} {self.output_path}/Demo.parquet"
+            rename_command = f"hdfs dfs -mv {filename} {self.output_path}/{self.table_name}_0.parquet"
             run_bash_cmd(command=rename_command)
-            print(f"File {filename} đã được đổi tên thành {self.output_path}/Demo.parquet")
+            print(f"File {filename} đã được đổi tên thành {self.output_path}/{self.table_name}_0.parquet")
         else:
             print("Không tìm thấy file nào trong thư mục.")
 
