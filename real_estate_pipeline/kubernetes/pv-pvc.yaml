@@ -2,9 +2,10 @@ apiVersion: v1
 kind: PersistentVolume
 metadata:
   name: hdfs-pv
+  namespace: data-pipeline
 spec:
   capacity:
-    storage: 5Gi
+    storage: 10Gi
   accessModes:
     - ReadWriteOnce
   hostPath:
@@ -14,17 +15,19 @@ apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
   name: hdfs-pv-claim
+  namespace: data-pipeline
 spec:
   accessModes:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 5Gi
+      storage: 10Gi
 ---
 apiVersion: v1
 kind: PersistentVolume
 metadata:
   name: iceberg-pv
+  namespace: data-pipeline
 spec:
   capacity:
     storage: 5Gi
@@ -37,6 +40,7 @@ apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
   name: iceberg-pv-claim
+  namespace: data-pipeline
 spec:
   accessModes:
     - ReadWriteOnce

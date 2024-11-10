@@ -1,0 +1,27 @@
+# hdfs-datanode.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hdfs-datanode
+  namespace: data-pipeline
+spec:
+  selector:
+    matchLabels:
+      app: hdfs-datanode
+  template:
+    metadata:
+      labels:
+        app: hdfs-datanode
+    spec:
+      containers:
+        - name: datanode
+          image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+          ports:
+            - containerPort: 50010
+          volumeMounts:
+            - mountPath: /hadoop/dfs/data
+              name: hdfs-storage
+  volumes:
+    - name: hdfs-storage
+      persistentVolumeClaim:
+        claimName: hdfs-pvc

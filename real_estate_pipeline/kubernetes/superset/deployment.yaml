@@ -1,0 +1,20 @@
+# superset-deployment.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: superset
+  namespace: data-pipeline
+spec:
+  selector:
+    matchLabels:
+      app: superset
+  template:
+    metadata:
+      labels:
+        app: superset
+    spec:
+      containers:
+        - name: superset
+          image: apache/superset
+          ports:
+            - containerPort: 8088

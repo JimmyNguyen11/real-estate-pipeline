@@ -4,11 +4,11 @@ metadata:
   name: real-estate-config
   namespace: real-estate
 data:
-  config.yml: |
+  config.yml: 
     hdfs_path: "/data/hdfs"
     iceberg_path: "/data/iceberg"
     database:
-      host: "postgresql"
+      host: "localhost"
       port: 5432
-      user: "username"
-      password: "password"
+      user: "root"
+      password: "123456"

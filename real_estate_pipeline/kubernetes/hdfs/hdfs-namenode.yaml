@@ -1,0 +1,27 @@
+# hdfs-namenode.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hdfs-namenode
+  namespace: data-pipeline
+spec:
+  selector:
+    matchLabels:
+      app: hdfs-namenode
+  template:
+    metadata:
+      labels:
+        app: hdfs-namenode
+    spec:
+      containers:
+        - name: namenode
+          image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+          ports:
+            - containerPort: 9000
+          volumeMounts:
+            - mountPath: /hadoop/dfs/name
+              name: hdfs-storage
+  volumes:
+    - name: hdfs-storage
+      persistentVolumeClaim:
+        claimName: hdfs-pvc
