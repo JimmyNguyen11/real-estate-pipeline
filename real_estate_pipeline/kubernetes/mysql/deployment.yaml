@@ -1,24 +1,24 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mysql
+  name: airflow
   namespace: data-pipeline
 spec:
   selector:
     matchLabels:
-      app: mysql
+      app: airflow
   template:
     metadata:
       labels:
-        app: mysql
+        app: airflow
     spec:
       containers:
-        - name: mysql
-          image: mysql:8.0
+        - name: airflow
+          image: apache/airflow:2.6.1
           env:
-            - name: MYSQL_ROOT_PASSWORD
-              value: "123456"
-            - name: MYSQL_DATABASE
-              value: "demo"  
+            - name: AIRFLOW__CORE__EXECUTOR
+              value: LocalExecutor
+            - name: AIRFLOW__CORE__SQL_ALCHEMY_CONN
+              value: "mysql+mysqlconnector://root:123456@mysql/demo"
           ports:
-            - containerPort: 3306
+            - containerPort: 8080

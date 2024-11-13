@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: real-estate-config
-  namespace: real-estate
+  namespace: data-pipeline
 data:
   config.yml: 
     hdfs_path: "/data/hdfs"
