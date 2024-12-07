@@ -43,6 +43,8 @@ Update 07/12: Hệ thống k8s cần bổ sung thêm Apache Hive (để phục v
   - Bên cạnh đó khi cài hive, cần phải bổ sung thêm 1 file jar cho Hive có tên là 'iceberg-hive-runtime-1.3.0.jar': file này phục vụ chạy các bảng Iceberg với Hive (trên máy t thì phải tải file này về từ mạng, đưa vào folder 'hive' để chạy được, bro xem k8s xử lý mấy cái file jar này như nào nhé)
  - Spark: Tương tự như Hive, khi t cài đặt spark thì cũng sẽ lưu các file+thư mục cần thiết vào folder 'spark', trong đó cũng có 1 folder tên 'conf' chứa các file phục vụ cho việc config Spark, t cũng đã đẩy lên, bro xem xem khi build với k8s thì mình chỉnh sửa các thuộc tính ấy kiểu gì.
    - Tương tự Hive, cần bổ sung thêm 1 file jar cho Spark tên là 'iceberg-spark-runtime-3.3_2.12-1.3.0.jar'. Version Spark t đang dùng: 3.3.0
+  
+T để phần config cho spark và hive trong folder config nhé.
 
 
     
