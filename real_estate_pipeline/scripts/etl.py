@@ -115,5 +115,6 @@ with DAG(
     # )
 
     #start_pipeline >> crawl >> load_to_csv >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline
-    #start_pipeline >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline
-    start_pipeline >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline
+    # SKIP task crawl vi mat nhieu time crawl, du lieu crawl tam thoi se luu trong file crawl_data_1.csv
+    start_pipeline >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline  
+    
