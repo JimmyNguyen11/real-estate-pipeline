@@ -1,0 +1,1001 @@
+du_an,price_VND,location,status,area,price_m2,toilet,room,doc,type,Số tầng,furnishing,created_date
+,4.39,"37 ngõ 117 , Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,19.0,231.05,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.8,"Đinh Công Thương, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,30.0,193.33,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.9,"Phố Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội",,40.0,172.5,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.9,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,38.0,155.26,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.28,"13, Gốc Đề, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,35.0,208.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,8.8,"Phố Tô Hiệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,40.0,220.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.88,"Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,120.0,140.67,5.0,5.0,Đã có sổ,Nhà biệt thự,6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.8,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,45.0,151.11,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,10.5,"Đường Đông Ngạc, Phường Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",,50.0,210.0,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,2.4,QL6A,,40.0,60.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.5,Phượng Bãi,,50.0,50.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.0,"Phố Giang Lẻ, Phường Biên Giang, Quận Hà Đông, Hà Nội",,30.1,99.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.9,"Lạc Long Quân, Phường Bưởi, Quận Tây Hồ, Hà Nội",,15.0,193.33,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.0,"Phố Hoàng Văn Thái, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,38.0,184.21,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,6.8,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,33.0,206.06,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.2,"Phố Trịnh Văn Bô, Xã Vân Canh, Huyện Hoài Đức, Hà Nội",,42.0,100.0,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.5,"00, Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,90.0,183.33,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.1,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,40.0,152.5,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.4,"Đường Yên Nghĩa, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,33.0,103.03,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.6,"Phố Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,45.0,213.33,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.2,"Đê La Thành, Phường Giảng Võ, Quận Ba Đình, Hà Nội",,26.5,196.23,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,51.0,111.76,,4.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,5.8,"Đinh Công Thương, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,30.0,193.33,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.39,"37 ngõ 117 , Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,19.0,231.05,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.36,"Quốc Lộ 6, Phường Biên Giang, Quận Hà Đông, Hà Nội",,46.0,73.04,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,3.38,"quốc lộ 6, Phường Biên Giang, Quận Hà Đông, Hà Nội",,35.0,96.57,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,9.2,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,45.0,204.44,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.6,"Phố Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,45.0,213.33,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.2,"Đê La Thành, Phường Giảng Võ, Quận Ba Đình, Hà Nội",,26.5,196.23,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,51.0,111.76,,4.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,10.0,"117, Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,39.0,256.41,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,11.5,"Phố Tây Trà, Phường Trần Phú, Quận Hoàng Mai, Hà Nội",,65.0,176.92,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.9,", Đường Ngô Quyền, Phường La Khê, Quận Hà Đông, Hà Nội",,45.0,175.56,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,40.0,"Đường Trần Nhật Duật, Phường Đồng Xuân, Quận Hoàn Kiếm, Hà Nội",,81.3,492.0,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.5,"Đường Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",,47.0,287.23,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,7.8,"Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,40.0,195.0,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,13.0,"Đường Lạc Long Quân, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,65.0,200.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.2,"Phố Tây Trà, Phường Trần Phú, Quận Hoàng Mai, Hà Nội",,48.0,108.33,2.0,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.4,"Đường Láng, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",,60.0,90.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.8,"Minh Khai, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,20.0,190.0,4.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.69,"Đường Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",,32.0,146.56,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.65,"Phố Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,31.0,150.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.25,"Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,33.0,189.39,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.8,"thành công, Phường Thành Công, Quận Ba Đình, Hà Nội",,28.0,171.43,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.0,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,32.0,156.25,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.6,"Hạ Hội, Xã Tân Lập, Huyện Đan Phượng, Hà Nội",,30.3,118.81,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.15,"Phố An Trạch, Phường Quốc Tử Giám, Quận Đống Đa, Hà Nội",,30.0,205.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.25,"Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,33.0,189.39,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.8,"thành công, Phường Thành Công, Quận Ba Đình, Hà Nội",,28.0,171.43,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.0,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,32.0,156.25,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.6,"Hạ Hội, Xã Tân Lập, Huyện Đan Phượng, Hà Nội",,30.3,118.81,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.15,"Phố An Trạch, Phường Quốc Tử Giám, Quận Đống Đa, Hà Nội",,30.0,205.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.55,"Ngõ Thịnh Quang, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",,40.0,213.75,6.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.1," Đường Yên Vĩnh, Xã Kim Chung, Huyện Hoài Đức, Hà Nội",,31.5,161.9,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.6,"Hữu Hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,42.0,109.52,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,22.0,"Đường Nguyễn Xiển, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",,51.0,431.37,,4.0,Đã có sổ,Nhà phố liền kề,5.0,,2024-12-12 19:28:17.64746
+,6.25,"Đường Láng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,37.0,168.92,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,1.8,"2, Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,20.0,90.0,2.0,2.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.3,"Khương Trung , Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,24.0,179.17,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.45,"Hữu Lê, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,35.0,127.14,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,50.0,"Phố Trần Quốc Toản, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội",,100.0,500.0,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,55.0,"Phố Huế, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",,85.0,647.06,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Đường Trương Định, Phường Trương Định, Quận Hai Bà Trưng, Hà Nội",,44.0,136.36,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,9.3,"Bồ đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",,60.0,155.0,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,4.35,"Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,30.0,145.0,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,5.2,"Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",,32.0,162.5,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,22.9,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,45.0,508.89,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,22.9,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,45.0,508.89,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.9,"Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,120.0,140.83,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,12.8,"Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",,50.0,256.0,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,55.0,"Phố Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội",,100.0,550.0,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.5,"Đường Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",,31.0,145.16,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.3,"Ngõ 379 Đội Cấn , Phường Cống Vị, Quận Ba Đình, Hà Nội",,40.0,157.5,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,13.0,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",,65.0,200.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.7,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,33.0,172.73,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,20.0,"Phố Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,70.0,285.71,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,27.0,"Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",,96.0,281.25,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.95,"Đường Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,33.0,301.52,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,1.8,"Ngách 15 Ngõ Gốc Đề, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,15.0,120.0,2.0,2.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,13.3,"180, Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,105.0,126.67,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,15.0,"Đường Công viên Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội",,62.5,240.0,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.3,"Phố Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,35.0,151.43,5.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,4.0,"Phố Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,26.0,153.85,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.5,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,16.0,218.75,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.7,"Phố Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,45.0,193.33,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,6.25,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,37.0,168.92,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,9.5,"Phố Đồng Cổ, Phường Bưởi, Quận Tây Hồ, Hà Nội",,55.0,172.73,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,15.0,"Đường Công viên Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội",,62.5,240.0,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.3,"Phố Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,35.0,151.43,5.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,4.0,"Phố Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,26.0,153.85,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.5,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,16.0,218.75,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.7,"Phố Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,45.0,193.33,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,6.25,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,37.0,168.92,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,9.5,"Phố Đồng Cổ, Phường Bưởi, Quận Tây Hồ, Hà Nội",,55.0,172.73,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,17.5,"Đường Nguyễn Viết Thứ, Xã Sơn Đồng, Huyện Hoài Đức, Hà Nội",,80.0,218.75,4.0,6.0,Đã có sổ,Nhà phố liền kề,5.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,3.45,"Đường Tả Thanh Oai, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",,35.0,98.57,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,85.0,"Phố Nhật Chiêu, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",,109.0,779.82,6.0,8.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.39,"Đường La Thành, Phường Giảng Võ, Quận Ba Đình, Hà Nội",,30.0,179.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,30.8,"Ngõ 152 Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",,134.0,229.85,6.0,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.4,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,59.0,91.53,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,13.8,"Đường Quang Trung, Phường La Khê, Quận Hà Đông, Hà Nội",,54.0,255.56,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.7,"Phố An Thắng, Phường Biên Giang, Quận Hà Đông, Hà Nội",,30.0,90.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.5,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,117.0,106.84,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.5,"Phố Ao Sen, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,40.0,312.5,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.2,"Vĩnh Ninh, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội",,40.0,105.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,9.8,"Phố Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",,36.0,272.22,,3.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,15.0,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,55.0,272.73,5.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.2,"Vĩnh Ninh, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội",,40.0,105.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,9.8,"Phố Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",,36.0,272.22,,3.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,15.0,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,55.0,272.73,5.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.3,"Đường Nguyễn Sơn, Phường Gia Thụy, Quận Long Biên, Hà Nội",,36.0,258.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.6,"Ngõ 354 Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",,31.0,212.9,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.85,"Đường Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,40.0,146.25,4.0,3.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.45,"THỌ AM, Xã Liên Ninh, Huyện Thanh Trì, Hà Nội",,69.3,78.64,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.55,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,33.0,107.58,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.5,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,55.0,190.91,6.0,9.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,4.2,"Huỳnh Cung, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội",,36.0,116.67,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.8,"Cầu vượt Nguyễn Văn Huyên, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,36.0,188.89,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.05,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,25.0,82.0,1.0,1.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,7.5,"Phố Bạch Mai, Phường Cầu Dền, Quận Hai Bà Trưng, Hà Nội",,56.0,133.93,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.5,"Đường Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,55.0,281.82,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.05,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,21.0,97.62,2.0,2.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,11.5,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",,45.0,255.56,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.3,"Đường Nguyễn Viết Thứ, Xã Sơn Đồng, Huyện Hoài Đức, Hà Nội",,85.0,121.18,4.0,6.0,Đã có sổ,Nhà phố liền kề,5.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,7.69,"Đường Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",,38.0,202.37,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.5,"Phố Thạch Cầu, Phường Long Biên, Quận Long Biên, Hà Nội",,90.0,194.44,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.45,"Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội",,60.0,124.17,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,15.5,"Đường Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,55.0,281.82,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.05,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,21.0,97.62,2.0,2.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,11.5,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",,45.0,255.56,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.3,"Đường Nguyễn Viết Thứ, Xã Sơn Đồng, Huyện Hoài Đức, Hà Nội",,85.0,121.18,4.0,6.0,Đã có sổ,Nhà phố liền kề,5.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,7.69,"Đường Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",,38.0,202.37,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.5,"Phố Thạch Cầu, Phường Long Biên, Quận Long Biên, Hà Nội",,90.0,194.44,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.45,"Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội",,60.0,124.17,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,45.0,188.89,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.0,"Đường Tả Thanh Oai, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",,36.0,111.11,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,12.2,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,45.0,271.11,,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.7,"Ngọc Hồi, Xã Ngọc Hồi, Huyện Thanh Trì, Hà Nội",,44.0,152.27,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.3,"Đường Kiêu Kỵ, Xã Kiêu Kỵ, Huyện Gia Lâm, Hà Nội",,44.0,120.45,5.0,5.0,Đã có sổ,Nhà phố liền kề,4.0,,2024-12-12 19:28:17.64746
+,8.8,"Đàm Quang Trung, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,40.0,220.0,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,7.686,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,32.0,240.19,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.4,"Uy Nỗ, Xã Uy Nỗ, Huyện Đông Anh, Hà Nội",,30.0,113.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.8,"Đội 7, Xã Ngọc Hồi, Huyện Thanh Trì, Hà Nội",,41.0,165.85,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,19.999,Đường Nguyễn Sơn,,88.0,227.26,2.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,,2024-12-12 19:28:17.64746
+,7.8,Đường Trương Định,,47.0,165.96,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.5,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,25.0,180.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.85,"Phố Hồng Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,18.0,213.89,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.8,"Đội 7, Xã Ngọc Hồi, Huyện Thanh Trì, Hà Nội",,41.0,165.85,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,19.999,"15, Đường Nguyễn Sơn, Phường Bồ Đề, Quận Long Biên, Hà Nội",,88.0,227.26,2.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,,2024-12-12 19:28:17.64746
+,7.8,"Nhà mới đẹp KPL Hoàng Mai Tân Mai, Đường Trương Định, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,47.0,165.96,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.5,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,25.0,180.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.85,"Phố Hồng Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,18.0,213.89,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.49,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,18.0,193.89,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.8,"Vĩnh Ninh, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội",,45.0,106.67,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.45,"Phố Phạm Thận Duật, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,55.0,317.27,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,5.0,"Do Lộ, Phường Quang Trung, Quận Hà Đông, Hà Nội",,35.0,142.86,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,2.2,"Cao viên, Xã Cao Viên, Huyện Thanh Oai, Hà Nội",,35.0,62.86,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.95,"Đường Nhân Huệ, Phường Đồng Mai, Quận Hà Đông, Hà Nội",,35.0,170.0,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,10.8,"Phố Chính Kinh, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,40.0,270.0,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,4.8,"Ngõ Gốc Đề, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,45.0,106.67,,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Phố Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,38.0,223.68,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.7,"Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",,36.0,158.33,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Đường Văn Cao, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,42.0,178.57,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.4,"Đường Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",,40.0,185.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.85,"Phố Đức Giang, Phường Đức Giang, Quận Long Biên, Hà Nội",,24.0,160.42,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,14.0,"Đường Kim Giang, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",,55.0,254.55,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,5.8,"Đường Kim Giang, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,30.0,193.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.85,"Phố Đức Giang, Phường Đức Giang, Quận Long Biên, Hà Nội",,24.0,160.42,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,14.0,"Đường Kim Giang, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",,55.0,254.55,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,5.8,"Đường Kim Giang, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,30.0,193.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.6,"Đường Hữu Hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,45.0,102.22,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.4,"Đê Tả Đáy, Xã Cao Viên, Huyện Thanh Oai, Hà Nội",,35.0,68.57,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,13.0,"Phố Phan Đình Giót, Phường La Khê, Quận Hà Đông, Hà Nội",,44.0,295.45,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.8,"Phố Tô Hiệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,39.0,225.64,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.5,"Đường Kim Giang, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,50.0,190.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,14.0,"66, Phố Thanh Đàm, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,55.0,254.55,4.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.25,"353/30/5A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội",,40.0,156.25,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.2,"Đường Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",,40.0,155.0,4.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Đường Phùng Khoang, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",,44.0,136.36,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.65,"Ngõ 79 Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,35.0,218.57,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.15,"Phụng châu, Xã Phụng Châu, Huyện Chương Mỹ, Hà Nội",,40.0,78.75,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,2.79,"Phượng Đồng, Xã Phụng Châu, Huyện Chương Mỹ, Hà Nội",,36.0,77.5,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,5.2,"Ngõ Thổ Quan, Phường Thổ Quan, Quận Đống Đa, Hà Nội",,36.0,144.44,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.5,"Cổ Linh, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,35.0,128.57,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.78,"Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",,30.0,192.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,1.89,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,19.0,99.47,3.0,2.0,Không có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.4,"Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,34.0,217.65,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,1.89,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,19.0,99.47,3.0,2.0,Không có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.4,"Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,34.0,217.65,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.2,"Đường Tả Thanh Oai, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",,40.0,105.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,1.8,"Đường Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",,36.0,50.0,2.0,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,10.3,"Đường Nguyễn Sơn, Phường Long Biên, Quận Long Biên, Hà Nội",,40.0,257.5,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.25,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,37.0,168.92,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,35.0,"Phố Đội Nhân, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,120.0,291.67,,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,5.5,"Bát khối, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,38.5,142.86,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.0,"Đường Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,52.0,307.69,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.8,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,47.0,144.68,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,22.5,"Phố Quốc Tử Giám, Phường Văn Miếu, Quận Đống Đa, Hà Nội",,70.0,321.43,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.7,"Đường Tả Thanh Oai, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",,39.0,94.87,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.98,"Đường Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,40.0,224.5,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.7,"Phố Đình Quán, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",,35.0,162.86,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.8,"Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",,36.0,161.11,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.2,"Đường Bạch Đằng, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội",,27.0,155.56,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.75,"Nguyễn An Ninh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,25.0,230.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.09,"Đường Võ Chí Công, Phường Xuân La, Quận Tây Hồ, Hà Nội",,52.0,40.19,,2.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.4,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,38.0,194.74,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.88,"Đường Nguyễn Khang, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,37.0,185.95,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.4,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,38.0,194.74,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.88,"Đường Nguyễn Khang, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,37.0,185.95,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.75,"Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,35.0,164.29,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.48,"Phố Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,37.0,229.19,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Phố Phan Đình Giót, Phường La Khê, Quận Hà Đông, Hà Nội",,35.0,214.29,3.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.05,"Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,38.0,159.21,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.2,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,32.0,162.5,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.35,"Đường Biên Giang, Phường Biên Giang, Quận Hà Đông, Hà Nội",,30.0,111.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.5,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,42.0,154.76,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,3.9,"Phố Ô Cách, Phường Việt Hưng, Quận Long Biên, Hà Nội",,25.0,156.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,3.9,"Đường Hữu Hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,35.0,111.43,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.8,"Vĩnh Ninh, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội",,40.0,95.0,3.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.7,"Ngõ 20 Tả Thanh Oai, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",,46.0,145.65,4.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.95,"Phố Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,39.0,152.56,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.8,"Huỳnh Cung, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội",,35.0,108.57,3.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.25,"Đường Ven Sông Hữu Hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,35.0,92.86,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.95,"Thuỵ Khuê , Phường Ngọc Hà, Quận Ba Đình, Hà Nội",,23.0,215.22,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+Khu Tập thể Quỳnh Mai,3.35,"Quỳnh Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",,35.3,94.9,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",1.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.5,"quốc lộ 6, Phường Đồng Mai, Quận Hà Đông, Hà Nội",,30.0,83.33,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.0,"Phố 8 Tháng 3, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,40.0,175.0,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,2.5,"quốc lộ 6, Phường Đồng Mai, Quận Hà Đông, Hà Nội",,30.0,83.33,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.0,"Phố 8 Tháng 3, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,40.0,175.0,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,1.85,"Phố Đông Thiên, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,24.0,77.08,,2.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.0,"Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,40.0,175.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.8,"chợ Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,40.0,70.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,1.5,"quốc lộ 6, Xã Cao Viên, Huyện Thanh Oai, Hà Nội",,34.0,44.12,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.45,"Phố Quỳnh Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",,14.0,175.0,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.35,"Phố Quan Hoa, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,32.0,229.69,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.95,"Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,24.0,247.92,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.95,"8, Phố Vọng, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,25.0,198.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.2,"Phố Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,92.0,176.09,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,3.2,"Phố Giang Chính, Phường Biên Giang, Quận Hà Đông, Hà Nội",,30.0,106.67,,5.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,6.15,"Đường Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",,30.0,205.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,9.5,"Ngõ Chợ Khâm Thiên, Phường Phương Liên, Quận Đống Đa, Hà Nội",,52.0,182.69,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.2,"Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,30.0,140.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,4.4,"1024/3, Đường Nguyễn Khoái, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,35.0,125.71,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.8,"Phố Giáp Nhất, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,44.0,245.45,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,,2024-12-12 19:28:17.64746
+,4.9,"Đường Thụy Phương, Phường Thụy Phương, Quận Bắc Từ Liêm, Hà Nội",,35.0,140.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.88,"Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,75.0,118.4,,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.95,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,31.0,159.68,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.9,"Đường Thụy Phương, Phường Thụy Phương, Quận Bắc Từ Liêm, Hà Nội",,35.0,140.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.88,"Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,75.0,118.4,,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.95,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,31.0,159.68,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,18.0,"Ngõ 39 nhà LK 01.7, Đường 18M, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,59.0,305.08,3.0,4.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.4,"phụng châu, Xã Phụng Châu, Huyện Chương Mỹ, Hà Nội",,33.0,72.73,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.2,"Tương chúc, Xã Ngũ Hiệp, Huyện Thanh Trì, Hà Nội",,40.0,130.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.75,"Đường Trần Khát Chân, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,20.0,187.5,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.0,"ĐỀN LỪ, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,41.0,365.85,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,7.99,"Phố Trung Kính, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,35.0,228.29,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"233, Yên Hoà, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,30.0,266.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.15,"Đường Phú Minh, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",,45.0,158.89,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,11.6,"Phố Nguyễn Ngọc Nại, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,53.0,218.87,,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,9.0,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,50.0,180.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.0,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,50.0,180.0,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.35,"Phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",,10.0,235.0,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,40.0,200.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.5,"đại thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,40.0,87.5,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.1,"Phố Trinh Lương, Phường Phú Lương, Quận Hà Đông, Hà Nội",,53.0,133.96,2.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.4,"L, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,31.0,174.19,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.75,"Đường Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,40.0,193.75,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.4,"L, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,31.0,174.19,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.75,"Đường Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,40.0,193.75,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.618,"LK3, Ninh Sơn, Thị trấn Chúc Sơn, Huyện Chương Mỹ, Hà Nội",,31.0,84.45,2.0,3.0,Đã có sổ,Nhà phố liền kề,3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.8,"Đường Phó Đức Chính, Phường Trúc Bạch, Quận Ba Đình, Hà Nội",,18.0,266.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.65,"đường hoa, Xã Phụng Châu, Huyện Chương Mỹ, Hà Nội",,30.0,88.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,14.8,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,60.0,246.67,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.83,"Ngõ 1 Phố Thúy Lĩnh, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,31.0,155.81,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,13.95,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,30.0,465.0,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.45,"ĐA SĨ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,38.0,143.42,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.5,"Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,45.0,211.11,5.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,5.2,"BẮC CẦU, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,35.0,148.57,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.3,"Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,30.0,143.33,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.5,"Phố An Thắng, Phường Biên Giang, Quận Hà Đông, Hà Nội",,30.0,116.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Đường Trương Định, Phường Trương Định, Quận Hai Bà Trưng, Hà Nội",,45.0,133.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,13.3,"Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,45.0,295.56,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,1.55,"09, Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",,26.0,59.62,2.0,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.6,"Đường Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội",,33.0,109.09,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,9.15,"Phố Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,40.0,228.75,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.85,"17, Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",,32.0,182.81,,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,17.3,"Đường Đền Lừ 2, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,41.0,421.95,,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,17.3,"Đường Đền Lừ 2, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,41.0,421.95,,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,4.55,"Phố Tống Duy Tân, Phường Hàng Bông, Quận Hoàn Kiếm, Hà Nội",,14.0,325.0,1.0,1.0,Đã có sổ,"Nhà mặt phố, mặt tiền",1.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,38.6,"Trần Quang Diệu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,86.0,448.84,6.0,8.0,Đã có sổ,"Nhà mặt phố, mặt tiền",8.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,25.0,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,76.0,328.95,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.5,"Phố Ngọc Khánh, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",,66.0,128.79,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.45,"Đường Nguyễn Văn Linh, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,86.0,202.91,,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.2,"đại thành, Xã Đông La, Huyện Hoài Đức, Hà Nội",,40.0,80.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.7,"Hữu Hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,34.0,108.82,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.65,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,38.0,175.0,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,6.5,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,35.0,185.71,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,0.095,"427b, Thị trấn Thường Tín, Huyện Thường Tín, Hà Nội",,75.0,1.27,5.0,6.0,Đang chờ sổ,Nhà phố liền kề,5.0,,2024-12-12 19:28:17.64746
+,4.5,"Ngõ 197 đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,30.0,150.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.1,"Phố Thanh Am, Phường Thượng Thanh, Quận Long Biên, Hà Nội",,35.0,145.71,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,3.5,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,18.0,194.44,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.5,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,60.0,58.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.7,"La tinh, Xã Đông La, Huyện Hoài Đức, Hà Nội",,33.0,81.82,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.0,"La tinh, Xã Đông La, Huyện Hoài Đức, Hà Nội",,31.0,96.77,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,4.0,"La tinh, Xã Đông La, Huyện Hoài Đức, Hà Nội",,38.0,105.26,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.9,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,50.0,58.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,16.8,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,80.0,210.0,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.9,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,50.0,58.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,16.8,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,80.0,210.0,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,0.73,"Yên kỳ, Xã Phú Sơn, Huyện Ba Vì, Hà Nội",,426.0,1.71,1.0,4.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,12.0,"Kim Mã, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",,58.0,206.9,,8.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.96,"Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,38.0,156.84,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.3,"LIÊN XÃ, Xã Phụng Châu, Huyện Chương Mỹ, Hà Nội",,38.0,60.53,,3.0,Đã có sổ,Nhà phố liền kề,3.0,,2024-12-12 19:28:17.64746
+,11.555,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,94.0,122.93,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.3,"Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,20.0,215.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,7.8,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,41.0,190.24,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,7.95,"Phố Nguyễn Thời Trung, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,38.0,209.21,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,11.0,"Đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",,60.0,183.33,,4.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,2.3,"Đường Âu Cơ, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",,110.0,20.91,,2.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.85,"Phố Gia Quất, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",,45.0,107.78,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.15,"Đường Nguyễn Văn Linh, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,40.0,178.75,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,7.5,"Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,47.0,159.57,,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.2,"Tựu Liệt, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội",,42.0,100.0,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,12.0,"Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",,58.0,206.9,,8.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.5,"Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,40.0,212.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.2,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,40.0,130.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.0,"Phố Trích Sài, Phường Bưởi, Quận Tây Hồ, Hà Nội",,43.0,395.35,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,4.2,"Tựu Liệt, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội",,42.0,100.0,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,12.0,"Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",,58.0,206.9,,8.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.5,"Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,40.0,212.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.2,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,40.0,130.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.0,"Phố Trích Sài, Phường Bưởi, Quận Tây Hồ, Hà Nội",,43.0,395.35,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,12.5,"Phố Nguyễn Thời Trung, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,50.0,250.0,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.31,"Phố Vương Thừa Vũ, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,38.0,218.68,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.1,"Bình Minh, Xã Bình Minh, Huyện Thanh Oai, Hà Nội",,45.0,68.89,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.12,"Đường Nhân Huệ, Phường Đồng Mai, Quận Hà Đông, Hà Nội",,32.0,97.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,45.0,"Phố Lê Hồng Phong, Phường Điện Biên, Quận Ba Đình, Hà Nội",,45.0,1000.0,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.5,"10, Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,45.0,122.22,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.26,"Đai Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,50.0,65.2,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,5.5,"Ngõ 276 Phố Trung Kiên, Phường Tây Tựu, Quận Bắc Từ Liêm, Hà Nội",,40.0,137.5,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,9.48,"Cầu Kim Giang, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",,50.0,189.6,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.5,"Tổ 2 Yên Nghĩa, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,30.1,149.5,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.5,"Giáp Nhất, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,40.0,212.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.2,"Số nhà 37 ngách 100, Ngõ Văn Hương, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,30.1,205.98,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.75,"Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",,23.0,250.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.5,"Chợ Z117, Đông Xuân, Sóc Sơn, Xã Đông Xuân, Huyện Sóc Sơn, Hà Nội",,58.0,60.34,4.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.95,"Phố Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,32.0,123.44,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,3.5,"Chợ Z117, Đông Xuân, Sóc Sơn, Xã Đông Xuân, Huyện Sóc Sơn, Hà Nội",,58.0,60.34,4.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.95,"Phố Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,32.0,123.44,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,3.5,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,32.0,109.38,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.0,"168 , Phố Vương Thừa Vũ, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,40.0,200.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.5,"Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",,40.0,212.5,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,10.0,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,58.0,172.41,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.15,"Đường Tây Tựu, Phường Tây Tựu, Quận Bắc Từ Liêm, Hà Nội",,35.0,147.14,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.7,"La Tinh 3 , Xã Đông La, Huyện Hoài Đức, Hà Nội",,30.0,123.33,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.3,"Kim Chung, Xã Kim Chung, Huyện Hoài Đức, Hà Nội",,45.0,184.44,6.0,8.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.9,"Ngõ 118 Nguyễn Khánh Toàn, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,40.0,172.5,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.35,"Thôn Hoàng Long, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội",,47.0,71.28,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,23.04,"Đường Đào Xuyên, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",,180.0,128.0,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,,2024-12-12 19:28:17.64746
+,9.5,"Phố Hồng Tiến, Phường Bồ Đề, Quận Long Biên, Hà Nội",,40.0,237.5,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,17.5,"Đường Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,45.0,388.89,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.2,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,43.0,144.19,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.8,"Đường Phú Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",,60.0,196.67,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.25,"Phố Nguyễn Đức Cảnh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,51.0,142.16,1.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.5,"Đường Đê tả Sông Hồng, Xã Hải Bối, Huyện Đông Anh, Hà Nội",,46.0,97.83,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.3,"Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,36.0,175.0,,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,49.0,122.45,,6.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.3,"Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,36.0,175.0,,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,49.0,122.45,,6.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.8,"Đường Văn Cao, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,25.0,192.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Phố Đình Quán, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",,33.0,172.73,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.5,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",,36.0,180.56,,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,4.79,"120, Đường Giáp Bát, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",,28.0,171.07,5.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.4,"Phố Đào Tấn, Phường Cống Vị, Quận Ba Đình, Hà Nội",,35.0,211.43,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.39,"37 ngõ 117 , Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,19.0,231.05,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.28,"9, Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,45.0,184.0,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,2.6,"Phố Giang Lẻ, Phường Biên Giang, Quận Hà Đông, Hà Nội",,35.0,74.29,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.95,"Đường Đại Cát, Phường Liên Mạc, Quận Bắc Từ Liêm, Hà Nội",,50.0,119.0,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,3.62,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,35.0,103.43,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.5,"Đường Láng, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",,60.0,125.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.1,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,60.0,51.67,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",1.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.95,"Đường Yên Nghĩa, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,33.0,119.7,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.25,"Quang minh, Thị trấn Quang Minh, Huyện Mê Linh, Hà Nội",,90.0,80.56,1.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",1.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.0,"Đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",,45.0,222.22,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,10.9,"Đường Lạc Long Quân, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,71.0,153.52,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,16.5,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,52.0,317.31,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.6,"Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,48.0,179.17,6.0,9.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.4,"Ngõ Gốc Đề, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,45.0,208.89,,10.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.0,"Đường Trần Khát Chân, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,41.0,219.51,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.95,"Đường La Phù, Xã La Phù, Huyện Hoài Đức, Hà Nội",,31.0,159.68,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Phố Thái Thịnh, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",,30.0,190.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,19.5,"8, Phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,70.0,278.57,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+Vinhomes Ocean Park Gia Lâm,85.0,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",,284.0,299.3,4.0,4.0,Đã có sổ,Nhà biệt thự,4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.5,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",,38.0,197.37,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,10.0,"Đường Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,45.0,222.22,6.0,9.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,19.5,"8, Trần Quốc Hoàn, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,70.0,278.57,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.35,"Cầu vượt Cầu Cốc, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,51.1,124.27,,2.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.0,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,32.0,250.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.0,"Phố Nguyễn Chính, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,53.5,149.53,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.7,"Đường Trương Định, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",,38.0,176.32,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.8,"Cầu DIễn, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",,62.0,158.06,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,58.0,129.31,6.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.8,"Phố Kim Đồng, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,64.0,215.62,5.0,5.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,8.8,"Cầu Sông Sét, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",,55.0,160.0,5.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.8,"Phố Lê Hồng Phong, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,50.0,136.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,12.8,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",,34.0,376.47,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,5.0,"Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,33.0,151.52,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.8,"Phố Kim Đồng, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,64.0,215.62,5.0,5.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,8.8,"Cầu Sông Sét, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",,55.0,160.0,5.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.8,"Phố Lê Hồng Phong, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,50.0,136.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,12.8,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",,34.0,376.47,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,5.0,"Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,33.0,151.52,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.2,"Phố Dịch Vọng, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,70.0,145.71,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.2,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,24.0,133.33,3.0,3.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,7.1,"Đường Hoàng Tăng Bí, Phường Thụy Phương, Quận Bắc Từ Liêm, Hà Nội",,42.0,169.05,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.5,"Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,40.0,187.5,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.5,"Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,52.0,163.46,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,45.0,"Phố Trung Phụng, Phường Thổ Quan, Quận Đống Đa, Hà Nội",,86.0,523.26,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.83,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,35.0,166.57,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,1.55,"Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,20.0,77.5,2.0,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,1.75,"Đường Lĩnh Nam, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,30.0,58.33,,3.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,2.0,"Giải phóng , Phường Định Công, Quận Hoàng Mai, Hà Nội",,50.0,40.0,,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.5,"Đường Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,38.0,118.42,3.0,3.0,Đang chờ sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,3.3,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,80.0,41.25,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.8,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,40.0,145.0,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.3,"Phố An Thắng, Phường Biên Giang, Quận Hà Đông, Hà Nội",,33.0,100.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.95,"đông lao, Xã Đông La, Huyện Hoài Đức, Hà Nội",,31.0,95.16,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,2.95,"đông lao, Xã Đông La, Huyện Hoài Đức, Hà Nội",,31.0,95.16,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,12.0,"Phố Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,60.0,200.0,6.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"Phố Nguyễn Văn Lộc, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,51.0,156.86,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.0,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,50.0,60.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,12.5,"Phố Văn La, Phường Phú La, Quận Hà Đông, Hà Nội",,33.0,378.79,5.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.5,"Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,50.0,190.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.999,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,34.0,235.26,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.567,"Ngõ 72 Nguyễn Trãi, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,38.0,199.13,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,10.0,"Đường Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",,60.0,166.67,6.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",,35.0,171.43,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,6.5,"Đường Tứ Liên, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",,49.0,132.65,3.0,3.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",44.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.8,"Phố Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,32.0,181.25,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.55,"Phố Trần Thái Tông, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,30.0,251.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.9,"Đường Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,50.0,258.0,4.0,5.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,7.25,"79, Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,34.0,213.24,2.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+Khu Đô Thị Hoàng Văn Thụ,12.5,"Hoàng Văn Thụ, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,65.0,192.31,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.35,"Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,35.0,181.43,2.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.6,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,45.0,280.0,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.9,"Cầu vượt Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,40.0,172.5,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,13.9,"Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,45.0,308.89,6.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.95,"đông lao, Xã Đông La, Huyện Hoài Đức, Hà Nội",,31.0,95.16,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,12.0,"Phố Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,60.0,200.0,6.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"Phố Nguyễn Văn Lộc, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,51.0,156.86,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.0,"cầu Đại Thành, Xã Đại Thành, Huyện Quốc Oai, Hà Nội",,50.0,60.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,12.5,"Phố Văn La, Phường Phú La, Quận Hà Đông, Hà Nội",,33.0,378.79,5.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.5,"Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,50.0,190.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.999,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,34.0,235.26,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.567,"Ngõ 72 Nguyễn Trãi, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,38.0,199.13,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,10.0,"Đường Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",,60.0,166.67,6.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",,35.0,171.43,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,6.5,"Đường Tứ Liên, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",,49.0,132.65,3.0,3.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",44.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.8,"Phố Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,32.0,181.25,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.55,"Phố Trần Thái Tông, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,30.0,251.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.9,"Đường Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,50.0,258.0,4.0,5.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,7.25,Đường Cầu Giấy,,34.0,213.24,2.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+Khu Đô Thị Hoàng Văn Thụ,12.5,"Hoàng Văn Thụ, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,65.0,192.31,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.35,"Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,35.0,181.43,2.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.6,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,45.0,280.0,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.9,"Cầu vượt Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,40.0,172.5,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,13.9,"Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,45.0,308.89,6.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.9,"Cầu vượt Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,40.0,172.5,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,13.9,"Vạn Phúc, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,45.0,308.89,6.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.4,"Ngõ Gốc Đề, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,45.0,208.89,5.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,17.5,"Đường Tố Hữu, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,60.0,291.67,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.6,"109, Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,30.0,186.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.99,"Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",,35.0,199.71,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.99,"Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,30.0,233.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.6,"Ngõ 81 Xã Đàn, Phường Phương Liên, Quận Đống Đa, Hà Nội",,38.0,252.63,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.55,"Đường Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",,30.0,218.33,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.5,"Đường Tứ Liên, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",,49.0,132.65,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.55,"Phố Trần Thái Tông, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,30.0,251.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.35,"Phố Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội",,35.0,210.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.6,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,45.0,280.0,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,1.8,"Đường Nguyễn Xiển, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",,36.0,50.0,,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.5,"Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,35.0,214.29,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.55,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,31.0,114.52,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,15.5,"Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,50.0,310.0,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,7.95,"Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,40.0,198.75,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.0,"Phố Trần Quốc Vượng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,51.0,176.47,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,7.0,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,44.0,159.09,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.0,"Phố Trần Quốc Vượng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,51.0,176.47,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,7.0,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,44.0,159.09,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.0,"đại từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,40.0,175.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,25.3,"Đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",,100.0,253.0,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.2,"Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,26.0,200.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.2,"Phố An Thắng, Phường Biên Giang, Quận Hà Đông, Hà Nội",,32.0,100.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.5,"Phố Nam Đồng, Phường Nam Đồng, Quận Đống Đa, Hà Nội",,29.0,155.17,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,4.45,"Hồ ba mẫu, Phường Kim Liên, Quận Đống Đa, Hà Nội",,26.0,171.15,3.0,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,,2024-12-12 19:28:17.64746
+,13.5,"Phố Phan Đình Giót, Phường La Khê, Quận Hà Đông, Hà Nội",,47.0,287.23,4.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,35.5,"Phố Thành Trung, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",,192.5,184.42,6.0,8.0,Đang chờ sổ,Nhà biệt thự,4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.1,"Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",,35.0,174.29,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.85,"Phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",,46.0,301.09,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",66.0,,2024-12-12 19:28:17.64746
+,9.4,"12, Ngõ 254 Minh Khai, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,45.0,208.89,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.1,"Phố mậu lương, Phường La Khê, Quận Hà Đông, Hà Nội",,36.0,169.44,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,16.5,"Đường Phú Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",,69.0,239.13,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.75,"131, Phố Đại La, Phường Trương Định, Quận Hai Bà Trưng, Hà Nội",,28.0,133.93,3.0,3.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.5,"Ngõ 41 Đông Tác, Phường Phương Mai, Quận Đống Đa, Hà Nội",,47.0,159.57,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.2,"Đường Văn Tiến Dũng, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",,40.0,130.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,9.3,"Phố Trịnh Văn Bô, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",,50.0,186.0,,10.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.7,"Đường Xuân Phương, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",,45.0,104.44,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,9.3,"Phố Trịnh Văn Bô, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",,50.0,186.0,,10.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.7,"Đường Xuân Phương, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",,45.0,104.44,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.3,"Đường Phương Canh, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",,50.0,126.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.5,"Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,30.0,183.33,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.8,"Đường Láng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,40.0,170.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.6,"HOÀNG , Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,45.0,191.11,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",66.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,19.9,"Cầu Diễn, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,100.0,199.0,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",8.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.65,"Đường Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,62.0,139.52,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.6,"Quang tiến, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",,35.0,160.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,15.5,"Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",,50.0,310.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.3,"Phố Trung Phụng, Phường Trung Phụng, Quận Đống Đa, Hà Nội",,35.0,151.43,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,11.29,"Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,48.0,235.21,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,21.0,"ql 32, Xã Di Trạch, Huyện Hoài Đức, Hà Nội",,110.0,190.91,,5.0,Đang chờ sổ,Nhà phố liền kề,5.0,,2024-12-12 19:28:17.64746
+,4.7,"Đông Lao , Xã Đông La, Huyện Hoài Đức, Hà Nội",,42.0,111.9,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.6,"Đường Ngô Quyền, Phường Quang Trung, Quận Hà Đông, Hà Nội",,35.0,188.57,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,5.7,"Phố Văn La, Phường Phú La, Quận Hà Đông, Hà Nội",,36.0,158.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,1.95,"164, Phố Hồng Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,17.0,114.71,3.0,2.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,8.2,"Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,89.0,92.13,3.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.6,"Phố Bạch Mai, Phường Trương Định, Quận Hai Bà Trưng, Hà Nội",,26.0,138.46,3.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.6,"Phố Sài Đồng, Phường Sài Đồng, Quận Long Biên, Hà Nội",,36.0,183.33,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.6,"Phố Sài Đồng, Phường Sài Đồng, Quận Long Biên, Hà Nội",,36.0,183.33,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.7,"Phố Đông Thiên, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,30.0,156.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,52.5,"Phố Nguyễn Thị Thập, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,82.0,640.24,6.0,6.0,Đã có sổ,Nhà phố liền kề,6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,27.5,"Phố Đại La, Phường Trương Định, Quận Hai Bà Trưng, Hà Nội",,75.0,366.67,,3.0,Đã có sổ,Nhà phố liền kề,3.0,,2024-12-12 19:28:17.64746
+,7.5,"Đường Lạc Long Quân, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,40.0,187.5,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.6,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,45.0,168.89,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,9.89,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,55.0,179.82,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,6.1,"Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,23.0,265.22,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.4,"Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",,57.0,200.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,4.15,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,40.0,103.75,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.58,"Đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",,39.0,168.72,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,10.15,"Đường Nguyễn Khang, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,56.0,181.25,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",33.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.95,"1, Phố Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,39.0,203.85,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,1.95,"An Dương, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",,36.0,54.17,,3.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.5,"208, Đường Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",,43.0,313.95,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,39.5,"Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",,105.0,376.19,,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,12.5,"Đường Vũ Trọng Phụng, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,43.0,290.7,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.85,"Đường Đa Sỹ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,35.0,167.14,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.8,"15, Hoàng như tiếp, Phường Bồ Đề, Quận Long Biên, Hà Nội",,89.0,87.64,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,23.5,"Đường Nguyễn Khả Trạc, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,55.0,427.27,,8.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,12.5,"Đường Vũ Trọng Phụng, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,43.0,290.7,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.85,"Đường Đa Sỹ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,35.0,167.14,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.8,"15, Hoàng như tiếp, Phường Bồ Đề, Quận Long Biên, Hà Nội",,89.0,87.64,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,23.5,"Đường Nguyễn Khả Trạc, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,55.0,427.27,,8.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,9.5,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,33.0,287.88,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,6.0,"Đường Thụy Khuê, Phường Bưởi, Quận Tây Hồ, Hà Nội",,30.0,200.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,15.2,"Đường Thụy Khuê, Phường Bưởi, Quận Tây Hồ, Hà Nội",,45.0,337.78,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.0,"lý tử tấn, Thị trấn Thường Tín, Huyện Thường Tín, Hà Nội",,75.0,146.67,4.0,4.0,Đang chờ sổ,Nhà phố liền kề,5.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,5.5,"Đường Bát Khối, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,32.0,171.88,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.65,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,30.0,155.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.0,"HOÀNG QUỐC VJIÊT, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,48.0,312.5,6.0,6.0,Đang chờ sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.9,"Phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,50.0,338.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.8,"Đường Thanh Liệt, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,30.0,193.33,,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.9,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,60.0,231.67,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.55,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,32.0,110.94,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Cự Lộc, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,31.0,274.19,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,8.98,"Phố Cảm Hội, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",,40.0,224.5,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Phố Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",,35.0,214.29,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,1.6,"Ngách 75 Ngõ 281 , Đường Trương Định, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,20.0,80.0,1.0,1.0,Không có sổ,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,5.9,"Đường Tân Xuân, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,48.0,122.92,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.65,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,30.0,155.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.0,"HOÀNG QUỐC VJIÊT, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,48.0,312.5,6.0,6.0,Đang chờ sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.9,"Phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,50.0,338.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.8,"Đường Thanh Liệt, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,30.0,193.33,,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.9,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,60.0,231.67,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,3.55,"Đường Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội",,32.0,110.94,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Cự Lộc, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,31.0,274.19,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,8.98,"Phố Cảm Hội, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",,40.0,224.5,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Phố Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",,35.0,214.29,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,1.6,"Ngách 75 Ngõ 281 , Đường Trương Định, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,20.0,80.0,1.0,1.0,Không có sổ,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,5.9,"Đường Tân Xuân, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,48.0,122.92,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.5,"Đường Bát Khối, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,35.0,157.14,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.5,"Phố Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,42.0,250.0,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",66.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,33.0,"Phố Lê Trọng Tấn, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,84.0,392.86,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,6.8,"lạc trung, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,51.0,133.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.2,"Đường Vũ Trọng Phụng, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,38.0,215.79,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,95.0,"Phố Lò Đúc, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",,120.0,791.67,5.0,7.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,65.0,"Đường Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,112.0,580.36,,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,5.85,"Đường Đa Sỹ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,34.0,172.06,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,2.88,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,39.0,73.85,2.0,2.0,Không có sổ,"Nhà ngõ, hẻm",2.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.9,"Đường Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,43.0,113.95,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,2.1,"Phố Giáp Nhị, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội",,18.0,116.67,2.0,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,57.0,"Phố Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội",,99.0,575.76,,8.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,15.0,"Phố Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội",,70.0,214.29,,5.0,Đã có sổ,Nhà phố liền kề,6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.1,"Đường Lai Xá, Xã Kim Chung, Huyện Hoài Đức, Hà Nội",,30.5,134.43,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,12.0,"Đường Trương Định, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,45.0,266.67,6.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,13.0,"Nguyễn Hoàng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,55.0,236.36,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,7.65,"Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,45.0,170.0,,6.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.66,"Phố Lê Lợi, Phường Hà Cầu, Quận Hà Đông, Hà Nội",,30.0,288.67,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.5,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,41.0,280.49,,6.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,,2024-12-12 19:28:17.64746
+,14.5,"9 ngách 32 ngõ 102, Phố Hoàng Đạo Thành, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",,80.0,181.25,4.0,5.0,Đã có sổ,Nhà phố liền kề,4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,52.0,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",,128.0,406.25,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.8,"Phố Cù Chính Lan, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,37.0,183.78,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.5,"Phố Giang Văn Minh, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,42.0,154.76,,2.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,8.8,"Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,42.0,209.52,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.5,"Chợ lắp ghép Đông anh, Thị trấn Đông Anh, Huyện Đông Anh, Hà Nội",,80.0,93.75,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.9,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,35.0,225.71,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.68,"Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",,35.0,219.43,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.95,"Phố Chu Văn An, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,34.0,204.41,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.4,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,55.0,134.55,,5.0,Đang chờ sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,11.5,"Quốc lộ 6, Thị trấn Xuân Mai, Huyện Chương Mỹ, Hà Nội",,75.0,153.33,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,12.0,"Phố Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội",,55.0,218.18,,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,17.3,"Phố Nguyễn Cảnh Dị, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,55.0,314.55,,6.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,24.95,"Phố Thành Công, Phường Thành Công, Quận Ba Đình, Hà Nội",,58.6,425.77,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,0.95,"76/86, Đường An Dương, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",,30.0,31.67,1.0,2.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.0,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,38.0,210.53,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.1,"55, Phố Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,40.0,152.5,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,14.5,"hoàng văn thái, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,59.0,245.76,6.0,9.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,7.5,"Phố Trần Thái Tông, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,30.0,250.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.15,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,43.0,143.02,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.55,"Đường Trần Cung, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",,34.0,192.65,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.5,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,29.0,155.17,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.5,"Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",,47.0,138.3,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.5,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,30.0,283.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.35,"Đường Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",,30.0,211.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.35,"Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",,35.0,181.43,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.3,"Phố Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội",,37.0,197.3,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.8,"Phố Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,35.0,165.71,,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,8.55,"Yên Lãng, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",,40.0,213.75,3.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,5.0,"Đường Tựu Liệt, Thị trấn Văn Điển, Huyện Thanh Trì, Hà Nội",,36.0,138.89,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.95,"La Tinh, Xã Đông La, Huyện Hoài Đức, Hà Nội",,42.0,94.05,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.0,"Đường Nguyễn Khoái, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,60.0,133.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.3,"Phố Cát Linh, Phường Cát Linh, Quận Đống Đa, Hà Nội",,25.0,172.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.95,"236, Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,39.0,203.85,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"dình quán, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",,35.0,162.86,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.0,"785, Đường Phúc Diễn, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,55.0,90.91,,1.0,Giấy tờ viết tay,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,12.8,"Đường Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",,74.0,172.97,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,36.0,"19/5, Phường Văn Quán, Quận Hà Đông, Hà Nội",,102.0,352.94,,4.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,3.65,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,21.0,173.81,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,10.0,"Đường Lạc Long Quân, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,40.0,250.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.1,"Phố Hồ Đắc Di, Phường Nam Đồng, Quận Đống Đa, Hà Nội",,40.0,177.5,,6.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.75,"Phố Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,51.0,151.96,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+Vinhomes Cổ Loa,14.0,"Hưng Chính, Xã Đông Hội, Huyện Đông Anh, Hà Nội",,63.0,222.22,5.0,5.0,Đang chờ sổ,Nhà phố liền kề,,Bàn giao thô,2024-12-12 19:28:17.64746
+,19.5,"31, Trần Quốc HOÀN, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,70.0,278.57,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.3,"Cầu Vĩnh Tuy, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,31.0,170.97,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,2.98,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,25.0,119.2,3.0,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.19,"Phố Lê Trọng Tấn, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,38.0,189.21,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.45,"Ngõ 91 Tam Khương, Phường Khương Thượng, Quận Đống Đa, Hà Nội",,45.0,143.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,12.3,"Phố Hạ Yên Quyết, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,45.0,273.33,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",66.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.55,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,40.0,188.75,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.95,"Đường Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,40.0,123.75,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.8,"Đường Quang Tiến, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",,33.0,175.76,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.5,"Xã Đàn, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",,34.0,191.18,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.6,"Đường Phạm Văn Đồng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,38.5,197.4,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.0,"Phố Nam Đồng, Phường Nam Đồng, Quận Đống Đa, Hà Nội",,30.0,166.67,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.3,"Phố Tô Hiệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,53.0,156.6,3.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,13.0,"nguyễn hoàng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",,55.0,236.36,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,7.48,"Ngõ 22 Phố Lương Khánh Thiện, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,55.0,136.0,3.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.15,"yên  ngưu, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội",,32.0,129.69,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,87.0," Yên bái 2 , Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",,220.5,394.56,,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,5.85,"Đường Trương Định, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",,38.0,153.95,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,4.1,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,30.0,136.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.5,"Đường Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,42.0,154.76,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.28,"Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,32.0,227.5,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,9.35,"VÕ CHÍ CÔNG, Phường Bưởi, Quận Tây Hồ, Hà Nội",,40.0,233.75,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",55.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.2,"văn tiến dũng, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",,45.0,115.56,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",1.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.7,"Phố Châu Đài, Phường Thượng Cát, Quận Bắc Từ Liêm, Hà Nội",,35.0,105.71,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.9,"Đường Phạm Văn Đồng, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",,35.0,168.57,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,33.0,"Phố Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,71.0,464.79,6.0,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,,2024-12-12 19:28:17.64746
+,4.5,"Đường Di Trạch, Xã Di Trạch, Huyện Hoài Đức, Hà Nội",,36.0,125.0,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,14.99,"Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,45.0,333.11,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.25,"Đường Láng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,37.0,168.92,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,12.8,"Phố Thįnh Liệt, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội",,45.0,284.44,5.0,4.0,Đã có sổ,Nhà phố liền kề,6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.75,"Ngõ 254 Minh Khai, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,42.0,136.9,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.77,"Phố Nguyễn Đức Cảnh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,38.0,204.47,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.7,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,14.0,335.71,3.0,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,14.5,"68, Đường Âu Cơ, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",,62.0,233.87,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.65,"Đồng Nhân, Xã Đông La, Huyện Hoài Đức, Hà Nội",,30.0,121.67,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,12.5,"Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,58.0,215.52,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,9.05,"Ngõ Văn Chương, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,48.0,188.54,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.8,"Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,58.0,237.93,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.3,"Đa Sỹ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,43.0,146.51,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.6,"Đường Đa Sỹ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,56.0,100.0,1.0,1.0,Đã có sổ,"Nhà ngõ, hẻm",1.0,,2024-12-12 19:28:17.64746
+,26.0,"Phố Yên Lạc, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,85.0,305.88,6.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+Khu đô thị mới Văn Phú,20.5,"Đường Lê Trọng Tấn, Phường Phú La, Hà Đông, Hà Nội, Phường Phú La, Quận Hà Đông, Hà Nội",,90.0,227.78,4.0,4.0,Đã có sổ,Nhà phố liền kề,,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.8,"Phố Cự Lộc, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",,37.0,156.76,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,6.35,"Xã Đàn, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",,40.0,158.75,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.5,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,53.0,141.51,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.2,"Phố Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,32.0,162.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,3.2,"Đường Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",,70.0,45.71,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.9,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,38.0,128.95,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.95,"Phố Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,32.0,185.94,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.05,"Phố Thượng Thụy, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",,30.0,235.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.65,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,32.0,176.56,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.5,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,40.0,287.5,5.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,5.7,"Phố Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,35.0,162.86,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.85,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,30.0,161.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.0,"Đường Đê Trần Khát Chân, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,39.0,179.49,3.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,2.5,"Đường Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Hà Nội",,10.0,250.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.95,"Đường Hoàng Hoa Thám, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",,32.0,248.44,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.55,"Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,40.0,213.75,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,11.4,"Đường Tô Hiệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,48.0,237.5,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,47.9,"đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,210.0,228.1,4.0,4.0,Đã có sổ,Nhà biệt thự,4.0,,2024-12-12 19:28:17.64746
+,4.0,"37 ngõ 117 thái hà, Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,16.0,250.0,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,11.0,"Phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",,42.0,261.9,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.7,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,37.0,181.08,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,26.5,"Phố Sa Đôi, Phường Đại Mỗ, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",,90.0,294.44,6.0,6.0,Đã có sổ,Nhà phố liền kề,5.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,4.5,"Hữu Lê, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,40.0,112.5,,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,6.2,"101, Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,35.4,175.14,4.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.35,"Đường Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,52.0,122.12,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.98,"Đường 18M, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,37.0,269.73,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.0,"Phố Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,30.0,233.33,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.2,"Xã Đàn, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",,37.0,167.57,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.5,"8B, Phố Hào Nam, Phường Cát Linh, Quận Đống Đa, Hà Nội",,30.0,216.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,14.99,"Phố Quan Hoa, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",,40.0,374.75,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.65,"Phố Nguyễn Lương Bằng, Phường Nam Đồng, Quận Đống Đa, Hà Nội",,45.0,125.56,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.9,"Phố Phan Đình Giót, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",,35.0,140.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.9,"Đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",,60.0,198.33,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.35,"Phố Hồ Đắc Di, Phường Nam Đồng, Quận Đống Đa, Hà Nội",,42.0,151.19,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.25,"Ngách 15 Ngõ Gốc Đề, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,40.0,231.25,5.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.15,"An Trạch 2, Phường Quốc Tử Giám, Quận Đống Đa, Hà Nội",,35.0,175.71,4.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,9.6,"Kim Mã, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",,48.0,200.0,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.2,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,35.0,177.14,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.5,"Phố Nguyễn Phúc Lai, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,48.0,322.92,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.8,"Cổ Dương, Xã Tiên Dương, Huyện Đông Anh, Hà Nội",,40.0,95.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.8,"Đường Quốc lộ 2, Xã Phú Cường, Huyện Sóc Sơn, Hà Nội",,145.0,53.79,2.0,7.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.0,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,55.0,163.64,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,10.5,"Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",,75.0,140.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,14.0,"Phố Hạ Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",,75.0,186.67,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,9.9,"Phố Yên Lãng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,54.0,183.33,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.9,"Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",,54.0,164.81,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,10.4,"Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,56.2,185.05,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.9,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,35.0,225.71,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.1,"Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",,59.0,205.08,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,13.7,"Phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",,55.0,249.09,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.3,"Phố Thái Hà, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,48.0,172.92,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,10.5,"Phố Tây Sơn, Phường Trung Tự, Quận Đống Đa, Hà Nội",,74.0,141.89,,6.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.5,"Phố Thái Thịnh, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",,62.0,185.48,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.8,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,37.0,156.76,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,16.5,"Phố Vọng, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,40.0,412.5,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.98,"Đường Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",,12.0,331.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.79,"Ngõ Văn Hương, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,19.0,199.47,3.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,4.15,"Lai Xá, Xã Kim Chung, Huyện Hoài Đức, Hà Nội",,30.5,136.07,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,18.8,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,95.0,197.89,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.3,"Phùng Khoang, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,32.0,196.88,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.6,"Ngõ 190 Hoàng Mai, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,37.0,205.41,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.05,"Phố Ngô Xuân Quảng, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",,30.0,135.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.65,"5, Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,21.0,221.43,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,13.8,"Phố Trần Quốc Vượng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",,45.0,306.67,6.0,7.0,Đã có sổ,"Nhà mặt phố, mặt tiền",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.25,"Sn3, Ngõ chùa, Xã Tân Minh, Huyện Thường Tín, Hà Nội",,165.0,50.0,4.0,4.0,Đã có sổ,Nhà biệt thự,3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.99,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",,52.0,307.5,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,33.0,242.42,,3.0,Đã có sổ,Nhà phố liền kề,5.0,,2024-12-12 19:28:17.64746
+,5.9,"Phố Trinh Lương, Phường Phú Lương, Quận Hà Đông, Hà Nội",,50.0,118.0,2.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,26.5,"Đường Ngô Quyền, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,93.0,284.95,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.2,"Đường Vũ Trọng Phụng, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,33.0,218.18,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.04,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,30.0,168.0,,2.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.15,"Ngõ Quỳnh, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội",,30.0,205.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,8.35,"Đê La Thành, Phường Giảng Võ, Quận Ba Đình, Hà Nội",,50.0,167.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,6.8,"Đường Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",,47.0,144.68,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.888,"Phố Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,85.0,104.56,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,24.7,"Phố Nghĩa Đô, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,65.0,380.0,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,3.3,"Đường Lạc Long Quân, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,20.0,165.0,,2.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,68.6,"Phố Trấn Vũ, Phường Trúc Bạch, Quận Ba Đình, Hà Nội",,136.0,504.41,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,8.5,"Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,36.0,236.11,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.75,"Phố Phúc La, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,40.0,168.75,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.0,"Ngô Quyền, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,31.0,225.81,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.1,"Bến Trung, Xã Bắc Hồng, Huyện Đông Anh, Hà Nội",,68.0,45.59,1.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,1.7,"Ngõ 230 Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",,25.0,68.0,3.0,2.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,15.0,"Phố Hoàng Cầu, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,55.0,272.73,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,32.5,"Đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",,62.0,524.19,,1.0,Đã có sổ,"Nhà mặt phố, mặt tiền",1.0,,2024-12-12 19:28:17.64746
+,17.5,"Đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,50.0,350.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.5,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",,45.0,188.89,,6.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,6.95,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,50.0,139.0,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,8.5,"Phố Đào Tấn, Phường Cống Vị, Quận Ba Đình, Hà Nội",,37.0,229.73,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.1,"Ngõ Văn Hương, Phường Văn Chương, Quận Đống Đa, Hà Nội",,35.0,202.86,4.0,4.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.5,"Phương Mai, Phường Phương Liên, Quận Đống Đa, Hà Nội",,28.4,228.87,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,11.0,"Nguyễn Ngọc Nại, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,53.0,207.55,3.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,11.8,"Phố Kim Hoa, Phường Kim Liên, Quận Đống Đa, Hà Nội",,56.5,208.85,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.25,"Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",,45.0,161.11,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.48,"Phố Tương Mai, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,33.7,221.96,,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",,51.0,166.67,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,35.0,171.43,,3.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,9.8,"Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,55.0,178.18,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.4,"Đường Nguyễn Khoái, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,32.0,168.75,,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.75,"Phố Tương Mai, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,25.0,230.0,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,11.8,"Tu Hoàng, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",,45.0,262.22,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,4.1,"Đường Cự Khối, Phường Cự Khối, Quận Long Biên, Hà Nội",,45.0,91.11,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,,2024-12-12 19:28:17.64746
+,7.3,"Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,46.0,158.7,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.88,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,38.0,154.74,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Đường Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,35.0,171.43,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Phố Đội Cấn, Phường Cống Vị, Quận Ba Đình, Hà Nội",,39.0,192.31,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.0,"Phố Đào Tấn, Phường Cống Vị, Quận Ba Đình, Hà Nội",,35.0,171.43,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,26.9,"Trần Nguyên Đán, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,78.0,344.87,5.0,5.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,13.5,"Đường Trần Khát Chân, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",,65.0,207.69,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,22.48,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,60.0,374.67,5.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+Vinhomes Smart City,13.8,", Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,139.0,99.28,,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,14.6,"Đại La, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",,60.0,243.33,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+Iris Garden,12.5,"Số 30, Trần Hữu Dực, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,120.0,104.17,1.0,1.0,Đã có sổ,"Nhà mặt phố, mặt tiền",1.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.5,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,45.0,144.44,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,38.5,"Phố Phan Đình Phùng, Phường Quán Thánh, Quận Ba Đình, Hà Nội",,85.0,452.94,2.0,2.0,Đã có sổ,"Nhà mặt phố, mặt tiền",2.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.55,"Đê La Thành, Phường Thành Công, Quận Ba Đình, Hà Nội",,75.0,114.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,24.0,"Phố Trần Nguyên Đán, Phường Định Công, Quận Hoàng Mai, Hà Nội",,75.0,320.0,5.0,5.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,47.6,"Phố Trần Nguyên Đán, Phường Định Công, Quận Hoàng Mai, Hà Nội",,156.0,305.13,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",8.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.3,"Ngõ Văn Hương, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,31.0,203.23,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,27.5,"Phố Giảng Võ, Phường Giảng Võ, Quận Ba Đình, Hà Nội",,62.0,443.55,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.6,"Phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",,37.0,232.43,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.7,"Đường Trương Định, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,40.0,142.5,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.95,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,54.0,147.22,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.1,"Đường La Thành, Phường Thành Công, Quận Ba Đình, Hà Nội",,54.2,149.45,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.8,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,43.0,134.88,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Đường Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",,37.0,162.16,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.4,"Phố Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,36.0,150.0,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,3.2,"Phố Hồng Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,25.0,128.0,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,19.8,"Phố Xa La, Phường Phúc La, Quận Hà Đông, Hà Nội",,70.0,282.86,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,,2024-12-12 19:28:17.64746
+,5.7,"Đường Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",,38.0,150.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.8,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",,30.0,226.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.8,"Đường Hoàng Mai, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,40.0,170.0,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.39,"37 ngõ 117, Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,19.0,231.05,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.8,"Đường Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,75.0,130.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,6.85,"Ngõ Văn Chương, Phường Văn Chương, Quận Đống Đa, Hà Nội",,38.0,180.26,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,4.3,"Phố Hàng Than, Phường Nguyễn Trung Trực, Quận Ba Đình, Hà Nội",,42.0,102.38,1.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,7.1,"Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,63.0,112.7,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.3,"Phố Văn Yên, Phường Văn Quán, Quận Hà Đông, Hà Nội",,32.0,228.12,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.9,"Độc Lập, Phường Cự Khối, Quận Long Biên, Hà Nội",,60.0,81.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,10.8,"Phố Hồng Tiến, Phường Bồ Đề, Quận Long Biên, Hà Nội",,60.0,180.0,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.85,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,38.0,206.58,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,8.8,"Phố Tô Hiệu, Phường Hà Cầu, Quận Hà Đông, Hà Nội",,39.0,225.64,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.1,"Ngõ 214 trịnh đình cửu, Phố Trịnh Đình Cửu, Phường Định Công, Quận Hoàng Mai, Hà Nội",,28.0,75.0,1.0,2.0,Đang chờ sổ,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.5,"Đường Láng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,25.0,260.0,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.9,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,22.0,268.18,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.75,"Phố Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,37.0,155.41,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.45,"Ngõ Văn Hương, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,20.0,222.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,16.5,"Đường Nguyễn Sơn, Phường Gia Thụy, Quận Long Biên, Hà Nội",,50.0,330.0,,4.0,Đã có sổ,Nhà phố liền kề,,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,12.2,"Lương Thế Vinh, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",,50.0,244.0,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.0,"10, Phố Vọng, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",,38.0,184.21,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,12.5,"Đường Nhân Hòa, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",,36.0,347.22,,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.6,"Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,45.0,191.11,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,23.8,"Phố Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,55.0,432.73,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,18.5,"Phố Yên Lạc, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,55.0,336.36,6.0,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,28.5,"Phố Pháo Đài Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,85.0,335.29,,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",8.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"Phố Nguyễn An Ninh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,50.0,160.0,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.4,"Phố Lụa, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,30.0,213.33,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.3,"Phố Ỷ La, Phường Dương Nội, Quận Hà Đông, Hà Nội",,35.0,151.43,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Đường Phùng Khoang, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",,37.0,162.16,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.6,"Phố Nghĩa Đô, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,48.0,262.5,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,1.3,Phố Vĩnh Hưng,,25.0,52.0,,1.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",2.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,37.0,154.05,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,46.0,"Phố Tân Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",,183.0,251.37,,10.0,Đang chờ sổ,Nhà phố liền kề,5.0,,2024-12-12 19:28:17.64746
+,6.2,"Ngõ 13 Đường Lĩnh Nam, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,35.0,177.14,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.1,"Đường Tam Trinh, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,34.0,150.0,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Ngõ 10 Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội",,54.2,156.83,,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.5,"Đường Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,35.0,214.29,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,6.15,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,36.0,170.83,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.0,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,50.0,140.0,6.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Phố Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,33.0,172.73,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.85,"Phố Do Nha, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,30.0,161.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,20.5,"Tam Trinh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",,61.0,336.07,,10.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.85,"Cổ điển A, Xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội",,45.0,107.78,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,16.1,"Phố Nguyễn Công Hoan, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",,40.0,402.5,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.75,"Đường Cầu Diễn, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",,55.0,122.73,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,7.3,"Phố Ngọc Khánh, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",,35.0,208.57,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.2,"Ngõ 164 Hồng Mai, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội",,26.0,161.54,,2.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.4,"Phố Định Công Hạ, Phường Định Công, Quận Hoàng Mai, Hà Nội",,45.0,142.22,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,21.0,"LK 42, LK HUD, Xã Vân Canh, Huyện Hoài Đức, Hà Nội",,100.0,210.0,6.0,6.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.5,"Phố Hoàng Cầu, Phường Láng Hạ, Quận Đống Đa, Hà Nội",,45.0,344.44,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,9.68,"Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,44.0,220.0,4.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,4.99,"Ngõ 91 Tam Khương, Phường Khương Thượng, Quận Đống Đa, Hà Nội",,25.0,199.6,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.5,"Đường Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",,18.0,194.44,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",55.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.5,"Láng Hạ, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,52.0,298.08,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.4,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,37.0,200.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.5,"Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",,50.0,150.0,,6.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Phố Giáp Nhị, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội",,66.0,90.91,,4.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.2,"Tam trinh, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,52.0,157.69,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.4,"Đường Bắc Lãm, Phường Phú Lương, Quận Hà Đông, Hà Nội",,44.0,100.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,6.9,"Đường Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,38.0,181.58,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,28.0,Phố Triều Khúc,,90.1,310.77,,10.0,Đã có sổ,Nhà phố liền kề,8.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.3,"Phố Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,54.0,135.19,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.1,"Đường Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,30.0,203.33,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,6.8,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,35.0,194.29,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.48,"Phố Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,37.0,229.19,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.3,"Đường Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,50.0,146.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,,2024-12-12 19:28:17.64746
+,4.7,"Đường Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,35.0,134.29,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.8,"Phố Vương Thừa Vũ, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,37.0,237.84,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,4.8,"Phố Gia Quất, Phường Thượng Thanh, Quận Long Biên, Hà Nội",,40.0,120.0,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,17.9,"Phố Trần Điền, Phường Định Công, Quận Hoàng Mai, Hà Nội",,59.0,303.39,6.0,9.0,Đã có sổ,Nhà phố liền kề,,,2024-12-12 19:28:17.64746
+,2.03,"Để Tả Đáy, Xã Cao Viên, Huyện Thanh Oai, Hà Nội",,34.0,59.71,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.75,"Huỳnh cung, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội",,35.0,107.14,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,10.9,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",,21.0,519.05,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.3,"Phố Miêu Nha, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",,35.0,151.43,,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.8,"Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",,49.0,159.18,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,8.7,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,42.0,207.14,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,27.0,"Phố Vạn Bảo, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,75.0,360.0,5.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.99,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,40.0,224.75,,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,69.0,"Phố Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội",,125.0,552.0,6.0,10.0,Đã có sổ,"Nhà mặt phố, mặt tiền",10.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.4,"Phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",,35.0,154.29,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,32.0,"Phố Nguyễn Khuyến, Phường Văn Miếu, Quận Đống Đa, Hà Nội",,85.0,376.47,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",10.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,32.0,"Ngõ 135 Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",,65.0,492.31,6.0,8.0,Đã có sổ,"Nhà ngõ, hẻm",8.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.85,"Đường Cổ Linh, Phường Long Biên, Quận Long Biên, Hà Nội",,36.0,162.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.8,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",,39.0,148.72,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,13.2,"Tư Đình, Phường Long Biên, Quận Long Biên, Hà Nội",,46.0,286.96,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",8.0,,2024-12-12 19:28:17.64746
+,7.5,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,50.0,150.0,3.0,4.0,Đang chờ sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,8.5,"Phố Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội",,60.0,141.67,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,2.85,"Yên Quán, Xã Tân Phú, Huyện Quốc Oai, Hà Nội",,48.0,59.38,2.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,4.3,"Hữu Hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội",,38.0,113.16,,4.0,Đã có sổ,"Nhà ngõ, hẻm",33.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.7,"Đường Trương Định, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",,39.0,171.79,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.8,"Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",,40.0,170.0,,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.3,"Phố Minh Khai, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",,30.1,242.52,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.5,"Phố Lương Định Của, Phường Phương Mai, Quận Đống Đa, Hà Nội",,27.0,166.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.0,"Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",,32.0,187.5,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.45,"Đường Biên Giang, Phường Biên Giang, Quận Hà Đông, Hà Nội",,32.0,107.81,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.5,"Phố Tây Sơn, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",,29.0,189.66,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.75,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,40.0,68.75,4.0,3.0,Sổ chung / công chứng vi bằng,"Nhà ngõ, hẻm",3.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,4.8,"Đường Nguyễn Văn Linh, Phường Phúc Đồng, Quận Long Biên, Hà Nội",,33.0,145.45,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,13.8,"Cổ Nhuế, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",,58.0,237.93,,6.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.7,"Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,29.0,231.03,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.56,"Ngõ 91 Đường Cầu Diễn, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",,36.0,237.78,6.0,7.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,16.8,"Phố Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội",,75.0,224.0,6.0,6.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.65,"Phố Chu Văn An, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",,38.0,201.32,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.9,"Đường Kim Giang, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,36.0,191.67,,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,9.0,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,40.0,225.0,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,5.45,"Thọ Am, Xã Liên Ninh, Huyện Thanh Trì, Hà Nội",,97.0,56.19,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.0,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,30.0,266.67,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,8.6,"Phố Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,40.0,215.0,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.5,"Hoàng Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,35.0,185.71,3.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,8.6,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,40.0,215.0,5.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,15.5,"Ngô Thì Nhậm, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",,32.0,484.38,3.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,16.3,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,52.0,313.46,,10.0,Đã có sổ,"Nhà ngõ, hẻm",8.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.0,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,45.0,200.0,6.0,10.0,Đã có sổ,"Nhà ngõ, hẻm",8.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.5,"Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,36.0,152.78,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.0,"Đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",,35.0,171.43,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.9,"Đường Đồng Mai, Phường Đồng Mai, Quận Hà Đông, Hà Nội",,30.0,96.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.5,"Ngõ 639 Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",,65.0,130.77,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,5.3,"Đường Nguyễn Khoái, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội",,31.0,170.97,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,11.0,"Phố Đội Cấn, Phường Cống Vị, Quận Ba Đình, Hà Nội",,75.0,146.67,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,3.1,"Đường Quốc lộ 6 mở rộng, Phường Đồng Mai, Quận Hà Đông, Hà Nội",,32.0,96.88,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,8.95,"Phố Vương Thừa Vũ, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,52.0,172.12,4.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,,2024-12-12 19:28:17.64746
+,11.3,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",,60.0,188.33,6.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.26,"Phượng Đồng, Xã Phụng Châu, Huyện Chương Mỹ, Hà Nội",,34.0,66.47,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,10.3,"Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",,46.0,223.91,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,,2024-12-12 19:28:17.64746
+,11.2,"Đường Nguyễn Ngọc Vũ, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",,54.0,207.41,,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.8,"Đường Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,43.0,181.4,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,21.5,"Phố Trần Điền, Phường Định Công, Quận Hoàng Mai, Hà Nội",,83.0,259.04,3.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,10.6,"Phố Pháo Đài Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",,42.0,252.38,4.0,6.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.412,"Phố Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,43.9,168.85,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.55,"Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",,45.0,190.0,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,2.0,"Phố Hồ Văn Chương, Phường Văn Chương, Quận Đống Đa, Hà Nội",,50.0,40.0,,2.0,Đã có sổ,"Nhà ngõ, hẻm",1.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,13.45,"16, Phố Định Công, Phường Định Công, Quận Hoàng Mai, Hà Nội",,41.0,328.05,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,2.8,"Đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",,33.0,84.85,3.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,6.8,"Phố Hoàng Văn Thái, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",,51.0,133.33,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",3.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,12.0,"Đường Di Trạch, Xã Di Trạch, Huyện Hoài Đức, Hà Nội",,69.0,173.91,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,12.0,"Đường Di Trạch, Xã Di Trạch, Huyện Hoài Đức, Hà Nội",,69.0,173.91,,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",,,2024-12-12 19:28:17.64746
+,4.5,"Phố Quần Ngựa, Phường Liễu Giai, Quận Ba Đình, Hà Nội",,20.0,225.0,,2.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.5,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",,33.0,196.97,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,8.0,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,30.0,266.67,,3.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,0.69,"ngõ 1, Phố La Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội",,35.0,19.71,,1.0,Đang chờ sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.5,"Phố Ngọc Trục, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",,35.0,185.71,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,10.0,"38, Trường Đại Hoc Sư Pham Mỹ Thuât, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",,42.0,238.1,3.0,5.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,,2024-12-12 19:28:17.64746
+,14.2,"Lò Đúc, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",,49.0,289.8,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.75,"Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,51.0,132.35,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.6,"Đường Hoàng Quốc Việt, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",,35.0,217.14,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,5.0,"Phố Đàm Quang Trung, Phường Long Biên, Quận Long Biên, Hà Nội",,35.0,142.86,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,15.5,"Đường Triều Khúc, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",,50.0,310.0,,10.0,Đã có sổ,"Nhà ngõ, hẻm",8.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,3.8,"Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",,22.0,172.73,,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,11.5,"Đường Nguyễn Tri Phương, Phường Điện Biên, Quận Ba Đình, Hà Nội",,40.0,287.5,3.0,4.0,Đã có sổ,"Nhà mặt phố, mặt tiền",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.5,"Phố Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",,33.0,136.36,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
+,6.6,"Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",,45.0,146.67,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.7,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,30.0,190.0,5.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,7.0,"Đường Cổ Linh, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,62.0,112.9,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,7.8,"15, Ngõ 17 Đường Võ Chí Công, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",,48.0,162.5,1.0,2.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,7.8,"Phố Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Hà Nội",,40.0,195.0,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.8,"Phố Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Hà Nội",,40.0,195.0,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.05,"Đường Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",,40.0,176.25,,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,,2024-12-12 19:28:17.64746
+,2.15,"Đường Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",,60.0,35.83,2.0,2.0,Không có sổ,"Nhà mặt phố, mặt tiền",2.0,,2024-12-12 19:28:17.64746
+,4.35,"Đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,21.0,207.14,3.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,5.75,"Đường Cổ Linh, Phường Long Biên, Quận Long Biên, Hà Nội",,30.0,191.67,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.8,"Ngọc Thuỵ, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,38.0,152.63,3.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Hoàn thiện cơ bản,2024-12-12 19:28:17.64746
+,5.1,"Ngõ 22 Đường Yên Vĩnh, Xã Kim Chung, Huyện Hoài Đức, Hà Nội",,35.0,145.71,4.0,3.0,Đã có sổ,"Nhà mặt phố, mặt tiền",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.7,"Phố Nghĩa Dũng, Phường Phúc Xá, Quận Ba Đình, Hà Nội",,45.0,193.33,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",6.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,5.45,"Phố Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",,36.2,150.55,6.0,8.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,21.5,"Đường Tân Triều Mới, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",,101.0,212.87,5.0,6.0,Đã có sổ,Nhà phố liền kề,4.0,Bàn giao thô,2024-12-12 19:28:17.64746
+,34.5,"Phố Xa La, Phường Phúc La, Quận Hà Đông, Hà Nội",,160.0,215.62,5.0,6.0,Đã có sổ,Nhà biệt thự,4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,22.5,"Đường KĐT Mỗ Lao, Phường Mộ Lao, Quận Hà Đông, Hà Nội",,79.0,284.81,5.0,4.0,Đã có sổ,Nhà phố liền kề,4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,4.75,"Đường Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",,34.0,139.71,4.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.5,"31, Bùi Xương Trạch, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,38.0,197.37,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,20.9,"Đường đê Vàng, Phường Phúc Lợi, Quận Long Biên, Hà Nội",,120.0,174.17,5.0,5.0,Đã có sổ,Nhà biệt thự,,,2024-12-12 19:28:17.64746
+,7.65,"39, Định Công Thượng, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,43.0,177.91,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.45,"93, Phố Hoàng Văn Thái, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,38.0,196.05,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",4.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,7.5,"Phố Mã Mây, Phường Hàng Buồm, Quận Hoàn Kiếm, Hà Nội",,28.0,267.86,2.0,3.0,Đã có sổ,"Nhà ngõ, hẻm",2.0,,2024-12-12 19:28:17.64746
+,7.65,"39, Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,37.0,206.76,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,9.5,"Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",,37.0,256.76,6.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",7.0,,2024-12-12 19:28:17.64746
+,6.5,"99, Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,35.0,185.71,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,7.95,"19, Đường Trương Định, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,35.0,227.14,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.6,"69, Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",,160.0,41.25,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.2,"69, Phố Hạ Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",,30.0,206.67,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,6.95,"69, Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",,32.0,217.19,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,8.0,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",,30.0,266.67,5.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.85,"69, Đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",,38.0,180.26,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,10.99,"Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",,45.0,244.22,4.0,4.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,2.45,"phố tân mai hoàng mai hà nội, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",,20.0,122.5,2.0,2.0,Giấy tờ viết tay,"Nhà ngõ, hẻm",4.0,Nội thất cao cấp,2024-12-12 19:28:17.64746
+,6.5,"Đường Cổ Linh, Phường Thạch Bàn, Quận Long Biên, Hà Nội",,45.0,144.44,4.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",5.0,,2024-12-12 19:28:17.64746
+,9.0,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",,50.0,180.0,5.0,5.0,Đã có sổ,"Nhà ngõ, hẻm",,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,28.5,"Ngõ 99 Nguyễn Tuân, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",,68.2,417.89,5.0,4.0,Đã có sổ,Nhà phố liền kề,5.0,Nội thất đầy đủ,2024-12-12 19:28:17.64746
+,5.8,"Phố Xã Đàn, Phường Nam Đồng, Quận Đống Đa, Hà Nội",,37.0,156.76,,4.0,Đã có sổ,"Nhà ngõ, hẻm",,,2024-12-12 19:28:17.64746
