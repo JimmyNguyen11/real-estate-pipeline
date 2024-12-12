@@ -12,7 +12,7 @@ from airflow.example_dags.utils.common.common_function import get_param
 from datetime import datetime
 from airflow.example_dags.utils.date_time.date_time_utils import get_business_date, get_partition_time
 from airflow.operators.empty import EmptyOperator
-from airflow.example_dags.subdags.test.sub_dag import task_load_to_hdfs, load_csv_to_mysql, get_product_all_pages, save_crawled_data_to_csv
+from airflow.example_dags.subdags.test.sub_dag_1 import task_load_to_hdfs, load_csv_to_mysql, get_product_all_pages, save_crawled_data_to_csv, task_load_stg, task_load_dwh
 
 #from plugins.iceberg_operator import IcebergOperator
 #from plugins.source_file_to_iceberg_operator import SourceFileToIcebergOperator
@@ -26,10 +26,11 @@ from airflow.example_dags.utils.lakehouse.lakehouse_uri_utils import get_source_
 
 
 
-DAG_NAME = 'etl_project'
+DAG_NAME = 'etl_4'
 SCHEDULE_INTERVAL = "00 01 * * *"
 
-hdfs_bucket = "/demo"
+product = "bds4"
+hdfs_bucket = "/demo4"
 mysql_conn_id = "mysql_conn_id"
 hdfs_conn_id = "hdfs_connection_default"
 business_date = get_business_date(days=-1, business_date=None)
@@ -54,17 +55,17 @@ with DAG(
     start_pipeline = EmptyOperator(task_id="start_pipeline")
     end_pipeline = EmptyOperator(task_id="end_pipeline")
 
-    crawl = PythonOperator(
+    '''crawl = PythonOperator(
         task_id="crawl",
         python_callable=get_product_all_pages,
         provide_context=True
-    )
+    )'''
 
-    load_to_csv = PythonOperator(
+    '''load_to_csv = PythonOperator(
         task_id="load_data_to_csv",
         python_callable=save_crawled_data_to_csv,
         provide_context=True
-    )
+    )'''
 
     kwargs = {
         "hdfs_bucket": hdfs_bucket,
@@ -72,7 +73,8 @@ with DAG(
         "hdfs_conn_id": hdfs_conn_id,
         "from_date": from_date,
         "to_date": to_date,
-        "date_partition": date_partition
+        "date_partition": date_partition,
+        "product": product
     }
 
     load_csv_to_mysql = PythonOperator(
@@ -83,6 +85,18 @@ with DAG(
 
     load_to_hdfs = task_load_to_hdfs(
         group_id="load_to_hdfs",
+        args=args,
+        **kwargs
+    )
+    
+    load_stg = task_load_stg(
+        group_id="load_to_stg",
+        args=args,
+        **kwargs
+    )
+    
+    load_dwh = task_load_dwh(
+        group_id="load_to_dwh",
         args=args,
         **kwargs
     )
@@ -100,5 +114,6 @@ with DAG(
     #     **kwargs
     # )
 
-    start_pipeline >> crawl >> load_to_csv >> load_csv_to_mysql >> load_to_hdfs >> end_pipeline
-    #start_pipeline >> load_csv_to_mysql >> load_to_hdfs >> end_pipeline
+    #start_pipeline >> crawl >> load_to_csv >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline
+    #start_pipeline >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline
+    start_pipeline >> load_csv_to_mysql >> load_to_hdfs >> load_stg >> load_dwh >> end_pipeline
