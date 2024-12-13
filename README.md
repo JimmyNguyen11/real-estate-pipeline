@@ -8,6 +8,7 @@ Phiên bản sử dụng: (Đây là của máy t, còn hệ thống bro build n
  - Hive: 3.1.3
  - Superset: 4.1.1
  - Java: 8
+   
 Trước khi chạy lưu ý:
 1. Cài Chrome để crawl
 2. Tạo 1 kết nối như sau trong MySQL:
