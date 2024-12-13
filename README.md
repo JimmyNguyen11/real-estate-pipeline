@@ -5,6 +5,9 @@ Phiên bản sử dụng: (Đây là của máy t, còn hệ thống bro build n
  - HDFS: 3.3.6
  - MySQL: 8.0.39
  - Python: 3.10
+ - Hive: 3.1.3
+ - Superset: 4.1.1
+   Java: 8
 Trước khi chạy lưu ý:
 1. Cài Chrome để crawl
 2. Tạo 1 kết nối như sau trong MySQL:
@@ -37,7 +40,6 @@ Còn 1 số chỗ nữa nhưng t không nhớ hết, ghi chạy gặp lỗi thì
 
 
 Update 07/12: Hệ thống k8s cần bổ sung thêm Apache Hive (để phục vụ cung cấp metastore cho spark thrift server để thực hiện các câu query sql)
-- Java : jdk 8
 - Apache Hive: 3.1.3, khi build nếu có 1 số chỗ cần config (do t không biết k8s sẽ config kiểu gì nên t sẽ viết cách t config hive để chạy được trên local)
   - Bình thường khi cài đặt hive, sẽ lưu các file cần thiết vào một folder, tạm gọi là 'hive', khi cài đặt, trong 'hive' sẽ có 1 folder tên 'conf', trong folder này chứa các file phục vụ cho việc config Hive, mình sẽ cần chỉnh sửa thuộc tính của Hive trong các file đó, t có đẩy lên r, bro check thử xem khi build Hive trên k8s thì có thể làm thế nào để Hive trên k8s conf giống như Hive mà t đã cài.
   - Bên cạnh đó khi cài hive, cần phải bổ sung thêm 1 file jar cho Hive có tên là 'iceberg-hive-runtime-1.3.0.jar': file này phục vụ chạy các bảng Iceberg với Hive (trên máy t thì phải tải file này về từ mạng, đưa vào folder 'hive' để chạy được, bro xem k8s xử lý mấy cái file jar này như nào nhé)
