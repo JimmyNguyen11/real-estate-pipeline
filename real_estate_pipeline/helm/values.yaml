@@ -1,0 +1,34 @@
+# Airflow Config
+airflow:
+  image: apache/airflow:2.6.1
+  replicas: 1
+  port: 8080
+  mysqlHost: mysql
+
+# MySQL Config
+mysql:
+  image: mysql:8.0
+  rootPassword: "123456"
+  database: demo
+
+# Spark Config
+spark:
+  masterImage: bde2020/spark-master:2.4.5-hadoop2.7
+  workerImage: bde2020/spark-worker:2.4.5-hadoop2.7
+  masterReplicas: 1
+  workerReplicas: 2
+
+# HDFS Config
+hdfs:
+  namenodeImage: uhopper/hadoop-namenode:2.7.2
+  datanodeImage: uhopper/hadoop-datanode:2.7.2
+  replicas: 1
+
+# Superset Config
+superset:
+  image: apache/superset:latest
+  port: 8088
+
+# Iceberg Config
+iceberg:
+  image: apache/iceberg:latest

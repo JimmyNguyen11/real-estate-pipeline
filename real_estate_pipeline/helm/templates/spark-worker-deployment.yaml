@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: spark-worker
+  labels:
+    app: spark-worker
+spec:
+  replicas: {{ .Values.spark.workerReplicas }}
+  selector:
+    matchLabels:
+      app: spark-worker
+  template:
+    metadata:
+      labels:
+        app: spark-worker
+    spec:
+      containers:
+        - name: spark-worker
+          image: {{ .Values.spark.workerImage }}
+          env:
+            - name: SPARK_MASTER
+              value: spark://spark-master:7077
