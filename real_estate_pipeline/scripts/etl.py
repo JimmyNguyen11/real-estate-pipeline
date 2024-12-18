@@ -40,7 +40,7 @@ to_date = get_business_date(days=-1, business_date=None, date_format="%Y-%m-%d")
 
 args = {
     'owner': 'airflow',
-    'start_date': datetime(2023, 11, 1),
+    'start_date': datetime(2024, 12, 9),
     'retries': 1
 }
 
