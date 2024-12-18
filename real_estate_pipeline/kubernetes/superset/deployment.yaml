@@ -1,10 +1,10 @@
-# superset-deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: superset
   namespace: data-pipeline
 spec:
+  replicas: 1
   selector:
     matchLabels:
       app: superset
@@ -15,6 +15,24 @@ spec:
     spec:
       containers:
         - name: superset
-          image: apache/superset
+          image: apache/superset:latest
           ports:
             - containerPort: 8088
+          env:
+            - name: SUPERSET_SECRET_KEY
+              value: "my_secret_key"
+            - name: SUPERSET_DATABASE_URI
+              value: "mysql://root:123456@mysql:3306/demo"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: superset-service
+  namespace: data-pipeline
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 80
+      targetPort: 8088
+  selector:
+    app: superset

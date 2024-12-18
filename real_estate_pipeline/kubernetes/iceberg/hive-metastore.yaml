@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hive-metastore
+  namespace: data-pipeline
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hive-metastore
+  template:
+    metadata:
+      labels:
+        app: hive-metastore
+    spec:
+      containers:
+        - name: hive-metastore
+          image: apache/hive:3.1.2
+          ports:
+            - containerPort: 9083
+          env:
+            - name: SERVICE_NAME
+              value: metastore
+            - name: DB_DRIVER
+              value: mysql
+            - name: DB_URI
+              value: "jdbc:mysql://mysql:3306/demo"
+            - name: DB_USER
+              value: "root"
+            - name: DB_PASSWORD
+              value: "123456"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: hive-metastore
+  namespace: data-pipeline
+spec:
+  ports:
+    - port: 9083
+  selector:
+    app: hive-metastore
+  type: ClusterIP

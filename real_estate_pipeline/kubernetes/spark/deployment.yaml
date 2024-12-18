@@ -1,20 +1,39 @@
-# spark-deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: spark
+  name: spark-master
   namespace: data-pipeline
 spec:
+  replicas: 1
   selector:
     matchLabels:
-      app: spark
+      app: spark-master
   template:
     metadata:
       labels:
-        app: spark
+        app: spark-master
     spec:
       containers:
-        - name: spark
-          image: bitnami/spark:3.1.2
+        - name: spark-master
+          image: bde2020/spark-master:3.1.1-hadoop3.2
           ports:
+            - containerPort: 7077
             - containerPort: 8080
+          env:
+            - name: SPARK_MODE
+              value: "master"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: spark-master
+  namespace: data-pipeline
+spec:
+  ports:
+    - name: web
+      port: 8080
+    - name: api
+      port: 7077
+  selector:
+    app: spark-master
+  type: LoadBalancer
