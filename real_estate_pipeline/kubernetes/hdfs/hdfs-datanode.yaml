@@ -1,10 +1,10 @@
-# hdfs-datanode.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hdfs-datanode
   namespace: data-pipeline
 spec:
+  replicas: 1
   selector:
     matchLabels:
       app: hdfs-datanode
@@ -14,14 +14,29 @@ spec:
         app: hdfs-datanode
     spec:
       containers:
-        - name: datanode
-          image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+        - name: hdfs-datanode
+          image: uhopper/hadoop-datanode:2.7.2
+          env:
+            - name: CLUSTER_NAME
+              value: "hadoop-cluster"
           ports:
-            - containerPort: 50010
+            - containerPort: 9864
           volumeMounts:
-            - mountPath: /hadoop/dfs/data
-              name: hdfs-storage
-  volumes:
-    - name: hdfs-storage
-      persistentVolumeClaim:
-        claimName: hdfs-pvc
+            - mountPath: "/hadoop/dfs/data"
+              name: hdfs-datanode-storage
+      volumes:
+        - name: hdfs-datanode-storage
+          emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: hdfs-datanode
+  namespace: data-pipeline
+spec:
+  selector:
+    app: hdfs-datanode
+  ports:
+    - protocol: TCP
+      port: 9864
+      targetPort: 9864
