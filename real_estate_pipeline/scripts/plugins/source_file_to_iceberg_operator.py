@@ -78,15 +78,12 @@ class SourceFileToIcebergOperator(BaseOperator):
         self.is_dedup_source = is_dedup_source
         self.is_alter = is_alter
 
-        # render template for table_name iceberg
         self.iceberg_table_name = self.iceberg_table_schema.TABLE_NAME
 
-        # build table_columns_schema param
         self.is_source_parquet = self.source_file_format.find("parquet") != -1
         if hasattr(self.iceberg_table_schema, "COLUMNS_SCHEMA") and self.iceberg_table_schema.COLUMNS_SCHEMA:
             self.table_columns_schema = self.iceberg_table_schema.COLUMNS_SCHEMA
         elif self.is_source_parquet:
-            # table_columns_schema is None then it will infer schema from hive source file if PARQUET
             self.table_columns_schema = None
         else:
             raise Exception("table_columns_schema None or Empty List only support for PARQUET source file")
@@ -107,20 +104,7 @@ class SourceFileToIcebergOperator(BaseOperator):
                 self.iceberg_table_props[k] = v
 
     def create_external_tmp_dbdata_tbl(self, cursor, tmp_dbdata_tbl_name):
-        """
-        Create tmp external hive table to database data (raw data)
-
-        :param cursor: hive2_cursor
-        :type cursor: obj
-        :param tmp_dbdata_tbl_name: table_name
-        :type tmp_dbdata_tbl_name: str
-        """
         create_table_with_schema = True
-        # getting schema from data location
-        # this is due to parquet strict schema (field types)
-        # ex. CREATE TABLE if not exists default.table_name
-        # USING data_format
-        # LOCATION source_file_uri
         if self.is_source_parquet:
             external_tmp_dbdata_tbl_sqls = SparkSqlAdhoc.gen_create_tbl_sqls(
                 table_name=tmp_dbdata_tbl_name,
@@ -136,7 +120,6 @@ class SourceFileToIcebergOperator(BaseOperator):
                 print("WARN: Source file PARQUET having no records ---> Create empty tmp table")
 
         if create_table_with_schema:
-            # getting schema from COLUMNS_SCHEMA
             # ex. CREATE TABLE if not exists default.table_name (id bigint)
             # USING data_format
             # LOCATION source_file_uri;
@@ -151,12 +134,6 @@ class SourceFileToIcebergOperator(BaseOperator):
         cursor.execute(f"{external_tmp_dbdata_tbl_sqls[0]}")
 
     def call_expire_snapshots(self, cursor):
-        """
-        expire snapshots from target iceberg table
-
-        :param cursor: database connection cursor
-        type cursor: obj
-        """
         snapshot_del_sql = f"""
         CALL iceberg.system.expire_snapshots (
             table => '{self.iceberg_db}.{self.iceberg_table_name}', 
@@ -170,12 +147,6 @@ class SourceFileToIcebergOperator(BaseOperator):
         cursor.execute(snapshot_del_sql)
 
     def call_remove_orphan_files(self, cursor):
-        """
-        remove orphan files (metadata and data files not used) from target iceberg table
-
-        :param cursor: database connection cursor
-        type cursor: obj
-        """
         timetz_str_remove_files = SparkSqlAdhoc.get_str_of_timetz(days=-2)
         orphan_files_del_sql = f"""
         CALL iceberg.system.remove_orphan_files (
@@ -189,12 +160,6 @@ class SourceFileToIcebergOperator(BaseOperator):
         cursor.execute(orphan_files_del_sql)
 
     def call_rewrite_manifests(self, cursor):
-        """
-        remove orphan files (metadata and data files not used) from target iceberg table
-
-        :param cursor: database connection cursor
-        type cursor: obj
-        """
         rewrite_manifests_sql = f"""
         CALL iceberg.system.rewrite_manifests('{self.iceberg_db}.{self.iceberg_table_name}')
         """
@@ -343,12 +308,6 @@ class SourceFileToIcebergOperator(BaseOperator):
             """
             # print(merge_sql)
             cursor.execute(merge_sql)
-
-        # CLEAN METADATA AND DATA
-
-        #self.call_expire_snapshots(cursor)
-        #self.call_remove_orphan_files(cursor)
-        #self.call_rewrite_manifests(cursor)
 
         # drop all tmp tables
         SparkSqlAdhoc.drop_table_if_exists(

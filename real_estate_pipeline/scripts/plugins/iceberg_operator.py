@@ -96,12 +96,6 @@ class IcebergOperator(BaseOperator):
                 self.iceberg_table_props[k] = v
 
     def call_expire_snapshots(self, cursor):
-        """
-        expire snapshots from target iceberg table
-
-        :param cursor: database connection cursor
-        type cursor: obj
-        """
         snapshot_del_sql = f"""
         CALL iceberg.system.expire_snapshots (
             table => '{self.iceberg_db}.{self.iceberg_table_name}', 
@@ -115,12 +109,6 @@ class IcebergOperator(BaseOperator):
         cursor.execute(snapshot_del_sql)
 
     def call_remove_orphan_files(self, cursor):
-        """
-        remove orphan files (metadata and data files not used) from target iceberg table
-
-        :param cursor: database connection cursor
-        type cursor: obj
-        """
         timetz_str_remove_files = SparkSqlAdhoc.get_str_of_timetz(days=-2)
         orphan_files_del_sql = f"""
         CALL iceberg.system.remove_orphan_files (
@@ -134,12 +122,6 @@ class IcebergOperator(BaseOperator):
         cursor.execute(orphan_files_del_sql)
 
     def call_rewrite_manifests(self, cursor):
-        """
-        remove orphan files (metadata and data files not used) from target iceberg table
-
-        :param cursor: database connection cursor
-        type cursor: obj
-        """
         rewrite_manifests_sql = f"""
         CALL iceberg.system.rewrite_manifests('{self.iceberg_db}.{self.iceberg_table_name}')
         """

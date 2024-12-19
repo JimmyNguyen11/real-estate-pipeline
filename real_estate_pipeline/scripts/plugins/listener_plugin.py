@@ -1,5 +1,3 @@
-
-
 from __future__ import annotations
 
 from airflow.example_dags.plugins import event_listener

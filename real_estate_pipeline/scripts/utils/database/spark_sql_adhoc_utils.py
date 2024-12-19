@@ -23,7 +23,6 @@ class SparkSqlAdhoc:
             if normalize_to_str:
                 col_type = "STRING"
             else:
-                # col_type = mapper_2_spark_sql_type[partition_row["type"]]
                 col_type = partition_row["type"]
 
         # add field to partition_fields
@@ -33,36 +32,6 @@ class SparkSqlAdhoc:
             field_expr = f"{col_name} {col_type}"
 
         return field_expr
-
-    @staticmethod
-    def gen_partition_expr(partitions, table_columns_schema, normalize_to_str: bool) -> str:
-        # set partition for table
-        partition_expr = ""
-        if partitions is None:
-            partition_expr = ""
-        elif isinstance(partitions, str):
-            partition_expr = partitions
-        elif isinstance(partitions, list) or isinstance(partitions, dict):
-            if table_columns_schema is None:
-                raise Exception(f"partitions type {type(partitions)} requires table_columns_schema not None")
-            table_columns = schemas_utils.get_field_names(table_columns_schema)
-            table_columns_dict = dict.fromkeys(table_columns, 1)
-            if isinstance(partitions, list):
-                partition_fields = []
-                for row in partitions:
-                    field_expr = SparkSqlAdhoc.gen_partition(table_columns_dict, normalize_to_str, row)
-                    partition_fields.append(field_expr)
-                partition_expr = ",".join(partition_fields)
-                partition_expr = f"PARTITIONED BY ({partition_expr})"
-            elif isinstance(partitions, dict):
-                partition_expr = SparkSqlAdhoc.gen_partition(
-                    table_columns_dict, normalize_to_str, partitions
-                )
-                partition_expr = f"PARTITIONED BY ({partition_expr})"
-        else:
-            raise Exception("partitions must be list[dict] or dict or str")
-
-        return partition_expr
 
     @staticmethod
     def gen_table_property_expr(table_properties: Dict) -> str:
@@ -162,9 +131,6 @@ class SparkSqlAdhoc:
         tbl_props_expr = SparkSqlAdhoc.gen_table_property_expr(table_properties)
         create_table_sql += f" {tbl_props_expr} \n"
 
-        # complete create_table_sql
-        # print(db_name, table_name, field_expr, spark_format)
-        # print(create_table_sql)
         create_table_sql = create_table_sql.format(
             db_name=db_name,
             table_name=table_name,
@@ -172,8 +138,6 @@ class SparkSqlAdhoc:
             spark_format=spark_format,
         )
 
-        # if location is specified, creating external table else  creating managed table
-        # put this after '.format' avoid keyword {} error
         if location:
             create_table_sql += f" LOCATION '{location}' \n"
 
@@ -198,19 +162,11 @@ class SparkSqlAdhoc:
         # build tbl_properties
         tbl_props_expr = SparkSqlAdhoc.gen_table_property_expr(table_properties)
 
-        # set partition for table
-        partition_expr = SparkSqlAdhoc.gen_partition_expr(
-            partitions=partitions,
-            table_columns_schema=table_columns_schema,
-            normalize_to_str=False,
-        )
-
         sort_column_expr = "" if sort_column_expr is None else sort_column_expr
 
         create_table_sql = f"""
             CREATE OR REPLACE TABLE {db_name}.{table_name}
             USING iceberg
-            {partition_expr}
             LOCATION '{location}'
             {tbl_props_expr}
             {select_stmt}
@@ -230,14 +186,6 @@ class SparkSqlAdhoc:
 
     @staticmethod
     def get_str_of_timetz(days, tz=None):
-        """
-        return a string representing timestamp with tz
-
-        param days: number of days add or remove from now()
-        type days: int
-        param tz: number of days add or remove from now()
-        type tz: datetime.timezone
-        """
         yyyymmdd = get_business_date(days=days)
         if tz:
             # use tz from func param

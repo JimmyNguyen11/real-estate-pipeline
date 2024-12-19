@@ -6,7 +6,6 @@ class DwhLoadType:
     TRANSFORMED_STAGING = "TRANSFORMED_STAGING"
     STAGING = "STAGING"  # default
 
-
 class BaseModel:
     def __init__(self, table_name):
         self.TABLE_NAME = table_name
@@ -31,13 +30,6 @@ class BaseModel:
         return self.TABLE_NAME
 
     def get_list_columns(self, columns, wrap_char="`"):
-        """
-        columns: object
-        wrap_char: str, define specific wrap char for column_name
-                   default (`)
-                   None will be treated as empty str
-                   (ex. wrap_char="`" -> mysql, cloud ; wrap_char="\"" -> postgres, mssql)
-        """
         wrap_char = "" if wrap_char is None else wrap_char
         list_columns = []
         for c in columns:
@@ -50,10 +42,6 @@ class BaseModel:
         return list_columns
 
     def get_list_name_type_columns(self, columns):
-        """
-        get field "name" and "type" in file schema
-        columns: object
-        """
         list_columns = []
         all_column_schemas = columns
         for c in all_column_schemas:
@@ -64,24 +52,10 @@ class BaseModel:
         all_field = ',\n'.join(map(str, list_columns))
         return all_field
 
-
-class PostgreBaseModel(BaseModel):
-    def __init__(self, table_name):
-        super().__init__(table_name)
-        self.TABLE_NAME = table_name
-
-        # Trường mặc định bảng nào cũng cần có
-        self.DEFAULT_COLUMNS = [
-            {"name": "etl_date", "mode": "NULLABLE", "type": "TIMESTAMP"},
-            {"name": "business_date", "mode": "NULLABLE", "type": "STRING"},
-        ]
-
-
 class DimDate(BaseModel):
     def __init__(self, table_name):
         super().__init__(table_name)
         self.COLUMNS = [
-            {"name": "date_key", "mode": "NULLABLE", "type": "INTEGER"},
             {"name": "date", "mode": "NULLABLE", "type": "DATE"},
             {"name": "day_of_week", "mode": "NULLABLE", "type": "INTEGER"},
             {"name": "day_of_month", "mode": "NULLABLE", "type": "INTEGER"},
@@ -90,9 +64,7 @@ class DimDate(BaseModel):
             {"name": "quarter", "mode": "NULLABLE", "type": "INTEGER"},
             {"name": "quarter_name", "mode": "NULLABLE", "type": "STRING"},
             {"name": "year", "mode": "NULLABLE", "type": "INTEGER"},
-            {"name": "month_abbreviated_name", "mode": "NULLABLE", "type": "STRING"},
             {"name": "month_full_name", "mode": "NULLABLE", "type": "STRING"},
-            {"name": "week_day_abbreviated", "mode": "NULLABLE", "type": "STRING"},
             {"name": "week_day", "mode": "NULLABLE", "type": "STRING"},
         ]
         self.COLUMNS_SCHEMA = self.COLUMNS

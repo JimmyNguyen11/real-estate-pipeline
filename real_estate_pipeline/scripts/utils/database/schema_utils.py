@@ -1,6 +1,3 @@
-from airflow.example_dags.utils.database.general_db_adhoc_utils import GroupChar
-
-
 class WriteDisposition:
     # WRITE_TRUNCATE overwrites data
     # in Bigquery, if the table already exists, BigQuery overwrites the data,
@@ -50,48 +47,6 @@ def get_field_names(columns_schema, quote=''):
             col = c['name']
         list_columns.append(col)
     return list_columns
-
-
-def gen_upsert_cond_expr(upsert_fields, quote=''):
-    """
-    Return a str representing condition for UPSERT_FIELDS
-    ex. return: a=%s and b=%s
-
-    :type upsert_fields: list of dict
-    :param upsert_fields: ex.UPSERT_FIELDS in class schema_postgres_datamart.py
-    :type quote: str
-    :param quote: quote char for wrapping fields
-    """
-    upsert_sql_cond = ""
-    for key_field in upsert_fields:
-        key_col = f"{quote}{key_field['field']}{quote}"
-        u_logic_rel = key_field["logic_relation"]
-        u_group_char = key_field["group_char"]
-
-        logic_expr = u_logic_rel
-        if u_group_char == GroupChar.OPEN:
-            logic_expr = f"{u_logic_rel} {GroupChar.OPEN}"
-        close_group = GroupChar.CLOSE if u_group_char == GroupChar.CLOSE else GroupChar.EMPTY
-
-        upsert_sql_cond += f" {logic_expr} {key_col}=%s {close_group}"
-    return upsert_sql_cond.strip()
-
-
-def gen_extract_cond_expr(extract_fields, quote=''):
-    upsert_sql_cond = ""
-    for key_field in extract_fields:
-        key_col = f"{quote}{key_field['field']}{quote}"
-        u_logic_rel = key_field["logic_relation"]
-        u_group_char = key_field["group_char"]
-
-        logic_expr = u_logic_rel
-        if u_group_char == GroupChar.OPEN:
-            logic_expr = f"{u_logic_rel} {GroupChar.OPEN}"
-        close_group = GroupChar.CLOSE if u_group_char == GroupChar.CLOSE else GroupChar.EMPTY
-
-        upsert_sql_cond += f" {logic_expr} {key_col}=%s {close_group}"
-    return upsert_sql_cond.strip()
-
 
 def get_key_columns(upsert_fields, columns_schema, quote=''):
     if upsert_fields is None or columns_schema is None:

@@ -1,21 +1,3 @@
-#
-# Licensed to the Apache Software Foundation (ASF) under one
-# or more contributor license agreements.  See the NOTICE file
-# distributed with this work for additional information
-# regarding copyright ownership.  The ASF licenses this file
-# to you under the Apache License, Version 2.0 (the
-# "License"); you may not use this file except in compliance
-# with the License.  You may obtain a copy of the License at
-#
-#   http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing,
-# software distributed under the License is distributed on an
-# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-# KIND, either express or implied.  See the License for the
-# specific language governing permissions and limitations
-# under the License.
-"""Plugin to demonstrate timetable registration and accommodate example DAGs."""
 from __future__ import annotations
 
 import logging
@@ -59,9 +41,6 @@ class AfterWorkdayTimetable(Timetable):
         start = self.get_next_workday(start, incr=-1)
         return DataInterval(start=start, end=(start + timedelta(days=1)))
 
-    # [END howto_timetable_infer_manual_data_interval]
-
-    # [START howto_timetable_next_dagrun_info]
     def next_dagrun_info(
         self,
         *,
@@ -73,7 +52,7 @@ class AfterWorkdayTimetable(Timetable):
             next_start = DateTime.combine((last_start + timedelta(days=1)).date(), Time.min).replace(
                 tzinfo=UTC
             )
-        else:  # This is the first ever run on the regular schedule.
+        else:
             next_start = restriction.earliest
             if next_start is None:  # No start_date. Don't schedule.
                 return None
@@ -92,7 +71,7 @@ class AfterWorkdayTimetable(Timetable):
             return None  # Over the DAG's scheduled end; don't schedule.
         return DagRunInfo.interval(start=next_start, end=(next_start + timedelta(days=1)))
 
-    # [END howto_timetable_next_dagrun_info]
+
 
 
 class WorkdayTimetablePlugin(AirflowPlugin):

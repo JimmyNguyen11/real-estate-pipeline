@@ -21,7 +21,7 @@ class PyarrowHdfsHook(BaseHook):
 
     def get_conn(self):
         """
-        Kết nối đến HDFS và trả về một HadoopFileSystem object
+        Connect HDFS and return 1 HadoopFileSystem object
         """
         if self.conn is not None:
             return self.conn
